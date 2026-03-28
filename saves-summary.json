@@ -1,0 +1,4400 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-03-25T19:13:58Z",
+  "generator": "MILSaveGamesAggregator",
+  "catalogRevision": "2026.03.21.1",
+  "titles": [
+    {
+      "titleId": "0100000000010000",
+      "name": "Super Mario Odyssey™",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100001019F6E000",
+      "name": "Horizon Chase 2",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010001300D14A000",
+      "name": "Castle Crashers Remastered",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010001701248C000",
+      "name": "Super Monkey Ball Banana Mania",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010003000E146000",
+      "name": "Mario & Sonic at the Olympic Games Tokyo 2020",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01000320000CC000",
+      "name": "1-2-Switch™",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010003900E46A000",
+      "name": "Super Dodgeball Beats",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010003901827A000",
+      "name": "Isekai Bride Hunting",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010003F003A34000",
+      "name": "Pokémon™: Let’s Go, Pikachu!",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010003F00BD48000",
+      "name": "Friday the 13th: Killer Puzzle",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010007400FF24000",
+      "name": "Borderlands: The Pre-Sequel",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010007601A7A2000",
+      "name": "草食系男子の言いなり入院生活- A passive boy at the Huntress clinic -",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010007C0136C4000",
+      "name": "Doctor Who: The Lonely Assassins",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010008900705C000",
+      "name": "Dragon Quest Builders™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010008A014F0A000",
+      "name": "We Are OFK",
+      "categories": [
+        "event"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01000A10041EA000",
+      "name": "The Elder Scrolls V: Skyrim",
+      "categories": [
+        "modded",
+        "other",
+        "starter"
+      ],
+      "variantCount": 4
+    },
+    {
+      "titleId": "01000B500EB22000",
+      "name": "One Finger Death Punch 2",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01000B900D8B0000",
+      "name": "Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01000CE00CBB8000",
+      "name": "Plague Inc: Evolved",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01000D3013E8C000",
+      "name": "Bob Esponja: Cozinha Cascuda",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01000E2003FA0000",
+      "name": "MIGHTY GUNVOLT BURST",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01000F400435A000",
+      "name": "Immortal Redneck",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010010200D09A000",
+      "name": "Iron Snout",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010010400D46A000",
+      "name": "SNACK WORLD: THE DUNGEON CRAWL — GOLD",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010010801C344000",
+      "name": "Female Nation Takeover - 女性国家乗っ取り計画 - 盗賊の俺が王になる -",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010011600C946000",
+      "name": "Travis Strikes Again: No More Heroes",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010012100E8DC000",
+      "name": "PICROSS LORD OF THE NAZARICK",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010012101468C000",
+      "name": "Metroid Prime™ Remastered",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001270012B6000",
+      "name": "SONIC FORCES™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010012800EBAE000",
+      "name": "Disney TSUM TSUM FESTIVAL",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010012F00B6F2000",
+      "name": "Yomawari: The Long Night Collection",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010014A0115BE000",
+      "name": "Cake Bash",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010014D01216E000",
+      "name": "ルーンファクトリー５",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010015100B514000",
+      "name": "Super Mario Bros.™ Wonder – Nintendo Switch™ 2 Edition + Vamos ao Parque Belabel",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100152000022000",
+      "name": "Mario Kart 8 Deluxe - Mods & Tools",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "0100153006300000",
+      "name": "無双OROCHI２ Ultimate everything unlocked",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010015B00BB00000",
+      "name": "Table Top Racing: World Tour - Nitro Edition",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100161011458000",
+      "name": "Demon's Tier+",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010016A00AEC0000",
+      "name": "WARRIORS OROCHI 4 Ultimate - Retail Only",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010017700B6C2000",
+      "name": "New Super Lucky's Tale",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010017A0128C4000",
+      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010018100CD46000",
+      "name": "Resident Evil 5",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010018300D006000",
+      "name": "BOXBOY! + BOXGIRL!™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100183010F12000",
+      "name": "JUMP FORCE - Deluxe Edition",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100183019A1E000",
+      "name": "『俺』が『私』に変わった日…～Becoming a She～",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100187003A36000",
+      "name": "Pokémon™: Let’s Go, Eevee!",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010018900DD00000",
+      "name": "DOOM (1993)",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010019001BF56000",
+      "name": "Elder Sister's Love Training ～年上お姉さんの恋愛トレーニング～",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010019401051C000",
+      "name": "Mario Strikers™: Battle League",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010019B00BE72000",
+      "name": "Cel Damage HD",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001A100C0E8000",
+      "name": "Caveblazers",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001AE00C1B2000",
+      "name": "NBA 2K Playgrounds 2",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001AE01A770000",
+      "name": "Hypnotic School Days",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001B10068EC000",
+      "name": "Urban Trial Playground",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001B300B9BE000",
+      "name": "Diablo III: Eternal Collection",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01001C1009892000",
+      "name": "すばらしきこのせかい -Final Remix",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001C400E9D8000",
+      "name": "ペルソナ５ スクランブル ザ ファントム ストライカーズ",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001C700873E000",
+      "name": "GOD EATER 3",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001CC00FA1A000",
+      "name": "Hatsune Miku: Project DIVA Mega Mix",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01001F5010DFA000",
+      "name": "Pokémon™ Legends: Arceus",
+      "categories": [
+        "complete",
+        "other",
+        "starter"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "01001FD0040F4000",
+      "name": "Brawlout",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010021101C342000",
+      "name": "Possessing My Older Sister",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010021501CC28000",
+      "name": "Sugar Daddy Support",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010021A00DE54000",
+      "name": "Blazing Beaks",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010021C000B6A000",
+      "name": "The Binding of Isaac: Afterbirth+",
+      "categories": [
+        "other",
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010022400BE5A000",
+      "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100227010460000",
+      "name": "Kirby Fighters™ 2",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010022900D3EC000",
+      "name": "SD GUNDAM G GENERATION CROSS RAYS",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010022F00DA66000",
+      "name": "Yooka-Laylee and the Impossible Lair",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100230005A52000",
+      "name": "Lovers in a Dangerous Spacetime",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010024700901A000",
+      "name": "Gal*Gun 2",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010025200FC54000",
+      "name": "Croc's World 3",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010025400C908000",
+      "name": "30-in-1 Game Collection Vol. 2",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010025C00D410000",
+      "name": "Mega Man Zero/ZX Legacy Collection",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100261015BE2000",
+      "name": "Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!!",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "01002620102C6000",
+      "name": "BioShock 2 Remastered",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010026300BA4A000",
+      "name": "Slay the Spire",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010026D018BB4000",
+      "name": "SENGOKU Princess",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "0100276009872000",
+      "name": "OKAMI HD",
+      "categories": [
+        "ngplus"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010027D0137E0000",
+      "name": "SNK VS. CAPCOM: THE MATCH OF THE MILLENNIUM",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010027F0128EA000",
+      "name": "Who Wants to Be a Millionaire?",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010027F017B12000",
+      "name": "Inscryption",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010028600EBDA000",
+      "name": "Super Mario™ 3D World + Bowser’s Fury",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010028700D1CA000",
+      "name": "Witch & Hero",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010029600D56A000",
+      "name": "Katana ZERO",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010029B0118E8000",
+      "name": "Need for Speed™ Hot Pursuit Remastered",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010029B018432000",
+      "name": "Ghost Trick: Phantom Detective",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002A000C478000",
+      "name": "Observer",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002A000CD48000",
+      "name": "Resident Evil 6",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002A6006AA4000",
+      "name": "Riptide GP: Renegade",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002B00111A2000",
+      "name": "Hyrule Warriors: Age of Calamity",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01002B30028F6000",
+      "name": "Celeste",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002C0008E52000",
+      "name": "Tales of Vesperia™: Edição Definitiva",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01002C000B552000",
+      "name": "Taiko no Tatsujin: Drum 'n' Fun!",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002C000E35E000",
+      "name": "WHAT THE GOLF?",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002C4019E80000",
+      "name": "- Mischief Dungeon Life - 異世界転生した俺のイタズラダンジョンライフ Satsuki Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002CC003FE6000",
+      "name": "Starlink: Battle for Atlas™, Edição Digital",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002CC0062B8000",
+      "name": "DEEMO",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002CD00A51C000",
+      "name": "Baba Is You",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002DA013484000",
+      "name": "The Legend of Zelda™: Skyward Sword HD",
+      "categories": [
+        "complete",
+        "modded"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01002DF00F76C000",
+      "name": "SAMURAI SHODOWN",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002F600C684000",
+      "name": "Fight of Gods",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002FA00DE72000",
+      "name": "BDSM: Big Drunk Satanic Massacre",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01002FF008C24000",
+      "name": "RingFit Adventure",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "01002FF0191A0000",
+      "name": "The Savage Hypnotist's Puppets - 外道催眠術師と囚われのマリオネット",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100300012F2A000",
+      "name": "Advance Wars™ 1+2: Re-Boot Camp",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010030701976E000",
+      "name": "- Isekai Bride Hunting - 異世界娘と婚活中 Chartier Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100309016E7A000",
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010031F002B66000",
+      "name": "Mr. Shifty",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010032600C8CE000",
+      "name": "Goat Simulator: The GOATY",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010032C00AC58000",
+      "name": "Dragon's Dogma: Dark Arisen",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010033700418A000",
+      "name": "Wulverblade",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003370136EA000",
+      "name": "Cozy Grove – Nintendo Switch™ 2 Edition",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010034500641A000",
+      "name": "Attack on Titan 2",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010035A00DF62000",
+      "name": "KUNAI",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003680191A8000",
+      "name": "Lunatic Viewer - Streamer Girl at Risk",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010036B0034E4000",
+      "name": "Super Mario Party™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100383012646000",
+      "name": "TAIKO NO TATSUJIN RHYTHMIC ADVENTURE PACK",
+      "categories": [
+        "modded"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010039000B68E000",
+      "name": "MY HERO ONE'S JUSTICE",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100394011C30000",
+      "name": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
+      "categories": [
+        "complete",
+        "starter",
+        "unlocked"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "01003A30012C0000",
+      "name": "LEGO® CITY Undercover",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01003AB00983C000",
+      "name": "Lethal League Blaze",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003B200E440000",
+      "name": "Five Nights at Freddy's: Sister Location",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003B4014204000",
+      "name": "Lifeslide",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003BC0000A0000",
+      "name": "Splatoon™ 2",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003BD00CAAE000",
+      "name": "Wolfenstein: Youngblood",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003C300B274000",
+      "name": "ふたりで！にゃんこ大戦争",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003C700009C000",
+      "name": "スプラトゥーン2",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003CD00BE22000",
+      "name": "Chiki-Chiki Boxy Racers",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003D200BAA2000",
+      "name": "Pokémon Mystery Dungeon™: Rescue Team DX",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "01003D90058FC000",
+      "name": "CrossCode",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003DE00C95E000",
+      "name": "Mary Skelter 2",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01003FB00C5A8000",
+      "name": "Super Kirby Clash™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010040600C5CE000",
+      "name": "Tetris 99 Retail Bundle",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004060145C0000",
+      "name": "Beach Bounce Remastered",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010040A0181B4000",
+      "name": "- Doki Doki Family - 特異体質者のドキドキ家族生活",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "010040E0116B8000",
+      "name": "Sonic Colors: Ultimate™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100416004C00000",
+      "name": "DOOM",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100416008A12000",
+      "name": "Onimusha: Warlords",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010041C01D47C000",
+      "name": "- Math, BFF, and Notes - 数学と親友とネタ帳",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010042000A986000",
+      "name": "DRAGON QUEST BUILDERS™ 2",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010042C006490000",
+      "name": "Bleed",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100438012EC8000",
+      "name": "BALAN WONDERWORLD",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010043B00E1CE000",
+      "name": "PictoQuest",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010044301960C000",
+      "name": "異世界娘と婚活中 ～ Isekai Bride Hunting ～ Meir Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010044500C182000",
+      "name": "Civilization VI",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010044700DEB0000",
+      "name": "Assassin’s Creed®: The Rebel Collection",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010048800F41C000",
+      "name": "One Step from Eden",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010048F007ADE000",
+      "name": "Tangledeep",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100493017C4C000",
+      "name": "異世界娘と婚活中 ～ Isekai Bride Hunting ～",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010049900F546000",
+      "name": "Super Mario™ 3D All-Stars",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010049F00EC30000",
+      "name": "Nyan Cat: Lost in Space",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004A10181B6000",
+      "name": "Mischief Dungeon Life",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01004A5017C50000",
+      "name": "My Lady Sayo 絶対君主！小夜様",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004A600EC0A000",
+      "name": "Immortals Fenyx Rising™",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01004AB00A260000",
+      "name": "DARK SOULS™: REMASTERED",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004AD014BF0000",
+      "name": "Sonic Frontiers",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004B100AF18000",
+      "name": "Disgaea 1 Complete",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004B800AF5A000",
+      "name": "Bloodstained: Curse of the Moon",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004D300C5AE000",
+      "name": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004E500DB9E000",
+      "name": "Summer Sweetheart",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004E700DFE6000",
+      "name": "River City Girls",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004EB00E43A000",
+      "name": "Five Nights at Freddy's 2",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004F10066B0000",
+      "name": "Party Planet",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01004F6015612000",
+      "name": "PUI PUI MOLCAR Lets MOLCAR PARTY",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100500012AB4000",
+      "name": "Life is Strange: True Colors™",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010050F00BC1A000",
+      "name": "Resident Evil",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100522007AAA000",
+      "name": "Wizard of Legend",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005250086C4000",
+      "name": "Mega Man X Legacy Collection 2",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010053000B986000",
+      "name": "Road Redemption",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100535012974000",
+      "name": "Hades",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "0100538012496000",
+      "name": "Grindstone",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010053E002EA2000",
+      "name": "Fate/EXTELLA: The Umbral Star",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100551001D88000",
+      "name": "Battle Chasers: Nightwar",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100559011740000",
+      "name": "Monster Hunter Rise",
+      "categories": [
+        "event",
+        "starter"
+      ],
+      "variantCount": 8
+    },
+    {
+      "titleId": "010055D009F78000",
+      "name": "Fire Emblem™: Three Houses",
+      "categories": [
+        "ngplus",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010056100E43C000",
+      "name": "Five Nights at Freddy's 3",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010056300D21A000",
+      "name": "Chiki-Chiki Boxy Pro Wrestling",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100563010E0C000",
+      "name": "WarioWare™: Get It Together!",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010056500AD50000",
+      "name": "Rogue Legacy",
+      "categories": [
+        "ngplus"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010056E00853A000",
+      "name": "A Hat in Time",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010056F00C7B4000",
+      "name": "Bravely Default II",
+      "categories": [
+        "ngplus",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010057D0021E8000",
+      "name": "Shovel Knight: Treasure Trove",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005880134C2000",
+      "name": "Shadowverse: Champion's Battle",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010059001B818000",
+      "name": "Girlfriend's Betrayal",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005A5011A44000",
+      "name": "Nexomon: Extinction",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005A700CC3C000",
+      "name": "Mana Spark",
+      "categories": [
+        "starter",
+        "unlocked"
+      ],
+      "variantCount": 4
+    },
+    {
+      "titleId": "01005B100C268000",
+      "name": "Ape Out",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005BA01A718000",
+      "name": "没落陰陽絵巻 - Tale of the fallen Onmyoji -",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005D100807A000",
+      "name": "Pokémon™ Quest",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005D2011EA8000",
+      "name": "KINGDOM HEARTS Melody of Memory",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005D700E742000",
+      "name": "DOOM 64",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01005DA003E6E000",
+      "name": "Morphies Law",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005DF00DC26000",
+      "name": "SWORD ART ONLINE: FATAL BULLET — Edição Completa",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005E5013862000",
+      "name": "The Legend of Heroes Zero no Kiseki Kai",
+      "categories": [
+        "ngplus"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005EC0039E4000",
+      "name": "Poi: Explorer Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005ED00CD70000",
+      "name": "Door Kickers: Action Squad",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005EE0036EC000",
+      "name": "Rocket League®",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005FA01778E000",
+      "name": "Shiorinokotoha - DarkReflections -",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01005FF002E2A000",
+      "name": "Rayman® Legends Definitive Edition",
+      "categories": [
+        "complete",
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01006000040C2000",
+      "name": "Yoshi’s Crafted World™",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010060700AC50000",
+      "name": "MARVEL ULTIMATE ALLIANCE 3: The Black Order",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010061700FA8C000",
+      "name": "Murder by Numbers",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100618010D76000",
+      "name": "Hakoniwa Explorer Plus",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010061D00DB74000",
+      "name": "Ori and the Blind Forest: Definitive Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010061E00E8BE000",
+      "name": "Garfield Kart Furious Racing",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010062501BF54000",
+      "name": "Needy Princess Nerd Club - メンヘラオタ姫サークル -",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100626011656000",
+      "name": "The Outer Worlds",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100628004BCE000",
+      "name": "Nights of Azure 2: Bride of the New Moon",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010062800D39C000",
+      "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010063100B2C2000",
+      "name": "Cytus α",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100633007D48000",
+      "name": "Hollow Knight – Nintendo Switch 2 Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010063E0104BE000",
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100643002136000",
+      "name": "Resident Evil Revelations",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100645010FA4000",
+      "name": "MAD RAT DEAD",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100646009FBE000",
+      "name": "Dead Cells",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010064600F982000",
+      "name": "AVICII Invector: Encore Edition",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010064800F66A000",
+      "name": "Borderlands: Game of the Year Edition",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100655012064000",
+      "name": "Radio Squid",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010065A014024000",
+      "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010065D012FA0000",
+      "name": "Azur Lane: Crosswave",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100667009E4C000",
+      "name": "スーパードラゴンボールヒーローズ ワールドミッション",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010066C0175C6000",
+      "name": "SongPop Party",
+      "categories": [
+        "event"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010067300059A000",
+      "name": "Mario + Rabbids® Kingdom Battle",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010067C010F88000",
+      "name": "Goblin Sword",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010068600AD16000",
+      "name": "Beyblade バースト バトルゼロ",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010068700C70A000",
+      "name": "ITTA",
+      "categories": [
+        "modded",
+        "starter"
+      ],
+      "variantCount": 4
+    },
+    {
+      "titleId": "01006980127F0000",
+      "name": "Fight Crab",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010069C0123D8000",
+      "name": "Zoids Wild Blast Unleashed",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006A30124CA000",
+      "name": "Chocobo GP",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006A800016E000",
+      "name": "Super Smash Bros. Ultimate - Cheats",
+      "categories": [
+        "event",
+        "other"
+      ],
+      "variantCount": 9
+    },
+    {
+      "titleId": "01006B5012B32000",
+      "name": "Part Time UFO™",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006BB00C6F0000",
+      "name": "The Legend of Zelda™: Link’s Awakening",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006C100EC08000",
+      "name": "Minecraft Dungeons",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006C300E9F0000",
+      "name": "DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01006C600E46E000",
+      "name": "Samurai Jack: Battle Through Time",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006C900CC60000",
+      "name": "SUPER ROBOT WARS T",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01006D6017D2E000",
+      "name": "Car Driver Ultimate",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006E000C81C000",
+      "name": "Fate/EXTELLA LINK",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006ED00BC76000",
+      "name": "Nelke & the Legendary Alchemists ~Ateliers of the New World~",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006F7001D10000",
+      "name": "Monster Boy and the Cursed Kingdom",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006F8002326000",
+      "name": "Animal Crossing: New Horizons - Save Pack",
+      "categories": [
+        "event",
+        "other"
+      ],
+      "variantCount": 11
+    },
+    {
+      "titleId": "01006F80082E4000",
+      "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006FA018D40000",
+      "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006FD0080B2000",
+      "name": "Overcooked! 2 – Nintendo Switch 2 Edition",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006FE005B6E000",
+      "name": "Sky Force Reloaded",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01006FE013472000",
+      "name": "Mario Party™ Superstars",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007090104EC000",
+      "name": "John Wick Hex",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010070D009FEC000",
+      "name": "LEGO® DC Super-Vilões",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010071800BA98000",
+      "name": "Darksiders II Deathinitive Edition",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010072000BD32000",
+      "name": "WORLD OF FINAL FANTASY MAXIMA",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010072400E04A000",
+      "name": "Pokémon Café ReMix",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100728013024000",
+      "name": "Waifu Uncovered",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010072900AFF0000",
+      "name": "Gear.Club Unlimited 2",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01007300020FA000",
+      "name": "ASTRAL CHAIN",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010073401175E000",
+      "name": "Crash Bandicoot™ 4: It’s About Time",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010073C001D5E000",
+      "name": "Puyo Puyo™Tetris®",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007430037F6000",
+      "name": "MONOPOLY® for Nintendo Switch™",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010074600CC7A000",
+      "name": "OBAKEIDORO!",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100750001C70000",
+      "name": "Duck Game",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100751007ADA000",
+      "name": "Don't Starve: Nintendo Switch Edition",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010075600AE96000",
+      "name": "Just Dance® 2019",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010076D00E4BA000",
+      "name": "Risk of Rain 2",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010076F0049A2000",
+      "name": "Bayonetta™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100770008DD8000",
+      "name": "Monster Hunter Generations Ultimate",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "010077B00E046000",
+      "name": "Spyro™ Reignited Trilogy",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010078D000F88000",
+      "name": "DRAGON BALL XENOVERSE 2 for Nintendo Switch",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010079200D330000",
+      "name": "PICROSS S3",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007960049A0000",
+      "name": "Bayonetta™ 2",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007AD00013E000",
+      "name": "Super Bomberman R",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007B000C834000",
+      "name": "Asphalt Legends – Nintendo Switch™ 2 Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007B301BB9C000",
+      "name": "-Becoming Your Beautiful Cousin- 美人姉妹と入れ替わり生活",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01007B600D5BC000",
+      "name": "Devil May Cry 3 Special Edition",
+      "categories": [
+        "starter",
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01007C600D778000",
+      "name": "Creature in the Well",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007C600EB42000",
+      "name": "No More Heroes 3",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007CF00D5BA000",
+      "name": "Devil May Cry 2",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007E3006DDA000",
+      "name": "Kirby™ Star Allies",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01007E700DBF6000",
+      "name": "MY HERO ONE'S JUSTICE 2",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007EE011116000",
+      "name": "SNK GALS' FIGHTERS",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007EF00011E000",
+      "name": "The Legend of Zelda™: Breath of the Wild – Nintendo Switch™ 2 Edition",
+      "categories": [
+        "complete",
+        "modded",
+        "other",
+        "starter"
+      ],
+      "variantCount": 8
+    },
+    {
+      "titleId": "01007F101CC2C000",
+      "name": "Probationary Girlfriend",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007F200B0C0000",
+      "name": "Ys VIII: Lacrimosa of DANA",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01007F600B134000",
+      "name": "Assassin's Creed® III: Remastered",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100801011C3E000",
+      "name": "Persona® 5 Strikers",
+      "categories": [
+        "ngplus",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010080B00AD66000",
+      "name": "Undertale",
+      "categories": [
+        "other",
+        "unlocked"
+      ],
+      "variantCount": 66
+    },
+    {
+      "titleId": "010080B019CC4000",
+      "name": "- Mischief Dungeon Life - 異世界転生した俺のイタズラダンジョンライフ Dorothy Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010081700EDF4000",
+      "name": "WWE 2K Battlegrounds",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010082400BCC6000",
+      "name": "Untitled Goose Game",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010082E012A84000",
+      "name": "STORY OF SEASONS: Pioneers of Olive Town",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100830008426000",
+      "name": "Just Shapes & Beats",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100838002AEA000",
+      "name": "LEGO® Worlds",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010083800E43E000",
+      "name": "Five Nights at Freddy's 4",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010084D00CF5E000",
+      "name": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010085900337E000",
+      "name": "Death Squared",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010086B00BB50000",
+      "name": "Farm Together",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010087800DCEA000",
+      "name": "WRC 8 FIA World Rally Championship",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010087D0084A8000",
+      "name": "Hello Kitty Kruisers With Sanrio Friends",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010088401495E000",
+      "name": "THE HOUSE OF THE DEAD: Remake",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010089700150E000",
+      "name": "Dragon Marked for Death: Advanced Attackers",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "010089C00DA6A000",
+      "name": "ONE PIECE 海賊無双4",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008A000A404000",
+      "name": "The Lost Child",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008AC01D130000",
+      "name": "Dangerous Village Tradition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008B900DC0A000",
+      "name": "FINAL FANTASY VIII Remastered",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01008C800E654000",
+      "name": "Gunvolt Chronicles Luminous Avenger iX - Retail Version",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008D1001512000",
+      "name": "Carros 3: Correndo para Vencer",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008D100D43E000",
+      "name": "Saints Row IV®: Re-Elected™",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008D900B984000",
+      "name": "FEZ",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008DB008C2C000",
+      "name": "Pokémon Shield + Pokémon Shield Expansion Pass",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 10
+    },
+    {
+      "titleId": "01008DD013200000",
+      "name": "Ori and the Will of the Wisps",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008DF012A7A000",
+      "name": "Turnip Boy Commits Tax Evasion",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008E200C5C2000",
+      "name": "Muse Dash",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008E601ACFC000",
+      "name": "Bitter-Sweet Cohabitation - ビタースイート - 家出少女とワケあり同棲生活 -",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008F2005154000",
+      "name": "South Park™: The Fractured but Whole™ - Standard Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01008FE00E2F6000",
+      "name": "ONE PIECE: PIRATE WARRIORS 4 Nintendo Switch™ 2 Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010090F012916000",
+      "name": "Ghostrunner",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010092B010448000",
+      "name": "Piffle: A Cat Puzzle Adventure",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010093801237C000",
+      "name": "Metroid™ Dread",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009510001CA000",
+      "name": "FAST RMX",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010095300212A000",
+      "name": "Resident Evil Revelations 2",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010096900A4D2000",
+      "name": "Clustertruck",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010096F00FF22000",
+      "name": "Borderlands: The Handsome Collection",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010097000BC10000",
+      "name": "Resident Evil 0",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100972008234000",
+      "name": "Crystal Crisis",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010097800EA20000",
+      "name": "Monster Energy Supercross - The Official Videogame 3",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010098000D646000",
+      "name": "Goonya Fighter",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "010099A00BC1E000",
+      "name": "Resident Evil 4",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009A9012022000",
+      "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009AA000FAA000",
+      "name": "Sonic Mania",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009B0019806000",
+      "name": "Furry Hentai Tangram",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009B500007C000",
+      "name": "ARMS™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009B600B9AA000",
+      "name": "Cardfight Vanguard EX",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009B90006DC000",
+      "name": "Super Mario Maker™ 2",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 37
+    },
+    {
+      "titleId": "01009B900401E000",
+      "name": "Overcooked Special Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009BB00AD62000",
+      "name": "Screencheat: Unplugged",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009BF0072D4000",
+      "name": "Captain Toad™: Treasure Tracker",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009CC00C97C000",
+      "name": "Dead or Alive Xtreme 3 Scarlet",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009D60076F6000",
+      "name": "Enter the Gungeon",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "01009EA00B714000",
+      "name": "Horizon Chase Turbo",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "01009FF00A160000",
+      "name": "Toy Stunt Bike: Tiptop's Trials",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A01006E00000",
+      "name": "LEGO® Os Incríveis",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A01016F48000",
+      "name": "Waifu Discovered 2 Medieval Fantasy R18",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A0500348A000",
+      "name": "Just Dance® 2018",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A0F00DA68000",
+      "name": "Monster Sanctuary",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A1C00359C000",
+      "name": "TowerFall",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A250097F0000",
+      "name": "DRAGON BALL FIGHTERZ",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A2500EB92000",
+      "name": "Urban Trial Tricky",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A2F006FBE000",
+      "name": "Cat Quest",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A3900C3E2000",
+      "name": "Paper Mario™: The Origami King",
+      "categories": [
+        "complete",
+        "other",
+        "starter"
+      ],
+      "variantCount": 14
+    },
+    {
+      "titleId": "0100A3D008C5C000",
+      "name": "Pokémon™ Scarlet + AOC bundle (for GP distribution)",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 6
+    },
+    {
+      "titleId": "0100A4301AA0C000",
+      "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+      "categories": [
+        "ngplus"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A4400BE74000",
+      "name": "Uma Aventura LEGO 2 - Videogame",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A52019628000",
+      "name": "異世界最強勇者の悲恋物語 - Isekai Tragic Love -",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A5B00BDC6000",
+      "name": "FINAL FANTASY VII",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A5C00D162000",
+      "name": "Cuphead",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A7F002830000",
+      "name": "VOEZ",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A8E016236000",
+      "name": "Kirby’s Dream Buffet™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100A9400C9C2000",
+      "name": "Tokyo Mirage Sessions™ #FE Encore",
+      "categories": [
+        "ngplus",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100AA60136D2000",
+      "name": "HOT WHEELS UNLEASHED™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100AAA00ACBE000",
+      "name": "Risk of Rain",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100ABC009708000",
+      "name": "A Gummy's Life",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100ABF008968000",
+      "name": "Pokémon Sword + Pokémon Sword Expansion Pass",
+      "categories": [
+        "complete",
+        "other",
+        "starter"
+      ],
+      "variantCount": 12
+    },
+    {
+      "titleId": "0100AD10102B2000",
+      "name": "BioShock: The Collection",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100AD400BBE0000",
+      "name": "BlazeRush",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100AD9011056000",
+      "name": "One Way Heroics Plus",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100AE00096EA000",
+      "name": "Hyrule Warriors: Definitive Edition",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100AE7012B5E000",
+      "name": "TOUHOU Spell Bubble",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100AE801D0AC000",
+      "name": "Drenched Girls",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100AF1019E20000",
+      "name": "- Mischief Dungeon Life - 異世界転生した俺のイタズラダンジョンライフ　アーシャEdition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B04011742000",
+      "name": "Monster Hunter Rise",
+      "categories": [
+        "event",
+        "starter"
+      ],
+      "variantCount": 9
+    },
+    {
+      "titleId": "0100B0500FE4E000",
+      "name": "Good Job!™",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B0C0086B0000",
+      "name": "Mega Man 11",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B10002904000",
+      "name": "Shakedown: Hawaii",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B1201A1F8000",
+      "name": "Menhera Girls Ensemble - Needy Girlfriends -",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B13007A6A000",
+      "name": "The Gardens Between",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B1300FF08000",
+      "name": "The Wonderful 101: Remastered",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B1400CD50000",
+      "name": "Atelier Lulua ~The Scion of Arland~",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 4
+    },
+    {
+      "titleId": "0100B1600E9AE000",
+      "name": "CARRION",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B1A00D8CE000",
+      "name": "DOOM® Eternal",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B1E0022F8000",
+      "name": "VVVVVV",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B280106A0000",
+      "name": "Aviary Attorney: Definitive Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B2A00E1E0000",
+      "name": "Super Monkey Ball: Banana Blitz HD",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B2C00682E000",
+      "name": "99Vidas - Definitive Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B3F000BE2000",
+      "name": "Pokkén Tournament™ DX",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B41013C82000",
+      "name": "Cruis'n Blast",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B4700BFC6000",
+      "name": "Call of Juarez: Gunslinger",
+      "categories": [
+        "ngplus"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B6200D8D2000",
+      "name": "Five Nights at Freddy's",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B6400CA56000",
+      "name": "DAEMON X MACHINA™",
+      "categories": [
+        "other",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100B6C01A786000",
+      "name": "Siblings Role-play",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B7C01169C000",
+      "name": "The Coma 2: Vicious Sisters",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B8500D570000",
+      "name": "Moero Chronicle™ Hyper",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B87017D94000",
+      "name": "SUPER BOMBERMAN R 2",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B8901B6F8000",
+      "name": "Innocent Stuck-up Girls!",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100B8E016F76000",
+      "name": "NieR Automata The End of YoRHa Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BA0003EEA000",
+      "name": "PICROSS S",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BAE00B470000",
+      "name": "Guacamelee! Super Turbo Championship Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100BC300CB48000",
+      "name": "FINAL FANTASY X/X-2 HD Remaster",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BD100FFBE000",
+      "name": "STAR WARS™ Episode I Racer",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100BD9019C28000",
+      "name": "- Mischief Dungeon Life - 異世界転生した俺のイタズラダンジョンライフ　ClaraEdition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BDC00A664000",
+      "name": "KAMEN RIDER CLIMAX SCRAMBLE",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BDE00862A000",
+      "name": "Mario Tennis™ Aces",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "0100BE500BEA2000",
+      "name": "Transistor",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BE7013E06000",
+      "name": "Ni no Kuni II: Revenant Kingdom PRINCE'S EDITION",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BEE017FC0000",
+      "name": "Just Dance©",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BF00112C0000",
+      "name": "Catherine: Full Body",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BF500207C000",
+      "name": "Bloodstained: Ritual of the Night",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100BF5006A7C000",
+      "name": "Layers of Fear: Legacy",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BF600BF26000",
+      "name": "Chocobo's Mystery Dungeon EVERY BUDDY!",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BF7006BCA000",
+      "name": "Crawl",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100BFE00E9CA000",
+      "name": "The Witcher 3: Wild Hunt — Complete Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "0100C0F0020E8000",
+      "name": "Snake Pass",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C1300BBC6000",
+      "name": "ABZÛ",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C1F0051B6000",
+      "name": "Donkey Kong Country™: Tropical Freeze",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C2500FC20000",
+      "name": "Splatoon™ 3 + Assinatura individual do Nintendo Switch Online (3 meses)",
+      "categories": [
+        "complete",
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100C250115DC000",
+      "name": "PICROSS S4",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C2700C252000",
+      "name": "Blazing Chrome",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C3300D8C4000",
+      "name": "The Touryst",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100C3C012718000",
+      "name": "Grand Theft Auto III – The Definitive Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C3E01AFD4000",
+      "name": "- Isekai Junior Manager - ハズレ転生:最底辺から始める異世界経営",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C4400CB7C000",
+      "name": "BLADE ARCUS Rebellion from Shining",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C5401B3A8000",
+      "name": "Married Girls' Night School",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C5700ECE0000",
+      "name": "Puzzle & Dragons GOLD",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C7D00E730000",
+      "name": "Fight'N Rage",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C8B00C4AE000",
+      "name": "SpeedRunners",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C8C00FA10000",
+      "name": "Serious Scramblers",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C9600A88E000",
+      "name": "PICROSS S2",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100C9C00E25C000",
+      "name": "Mario Golf™: Super Rush",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CAF00C462000",
+      "name": "SUPER DRAGON BALL HEROES WORLD MISSION",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CB000A142000",
+      "name": "Phoenix Wright: Ace Attorney Trilogy",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CB5009A2C000",
+      "name": "RAZED",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CC00102B4000",
+      "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CC80140F8000",
+      "name": "TRIANGLE STRATEGY™",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100CCC0002E6000",
+      "name": "Skylanders - Imaginators",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CCC0153F6000",
+      "name": "Big Rumble Boxing: Creed Champions",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CD301354E000",
+      "name": "Sam & Max Save the World",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CE400E34E000",
+      "name": "Thief Simulator",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CE4010AAC000",
+      "name": "FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CE601956E000",
+      "name": "異世界娘と婚活中 ～ Isekai Bride Hunting ～ Fia Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CF7019DBE000",
+      "name": "- Mischief Dungeon Life - 異世界転生した俺のイタズラダンジョンライフ Janice Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CF8003E70000",
+      "name": "Harvest Moon®: Light of Hope Special Edition",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CF900FA3E000",
+      "name": "FAIRY TAIL",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100CFE00CE6E000",
+      "name": "Nuclear Throne",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D03003F0E000",
+      "name": "Nine Parchments",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D06015B58000",
+      "name": "Miraculous: Rise of the Sphinx",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D0B00FB74000",
+      "name": "XCOM® 2 Collection",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D12015CCA000",
+      "name": "雨音スイッチ -AmaneSwitch-",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100D1900EC80000",
+      "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 7
+    },
+    {
+      "titleId": "0100D1B006744000",
+      "name": "Crash Bandicoot™ N. Sane Trilogy",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D2201A1F6000",
+      "name": "I'll be your ideal lover! - My Dream Lover -",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D250083B4000",
+      "name": "Salt and Sanctuary",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100D2600736A000",
+      "name": "Fe",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D2D009028000",
+      "name": "INSIDE",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D2F00D5C0000",
+      "name": "Nintendo Switch™ Sports",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D3A00409E000",
+      "name": "LEGO® Marvel Super Heroes 2",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100D400100F8000",
+      "name": "Tonight We Riot",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D4401D794000",
+      "name": "Host Security Guard",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D4900E82C000",
+      "name": "Metro 2033 Redux",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D4A0118EA000",
+      "name": "Curse of the Dead Gods",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D4F00DD02000",
+      "name": "DOOM II (Classic)",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D560102C8000",
+      "name": "BioShock Infinite: The Complete Edition",
+      "categories": [
+        "complete",
+        "other",
+        "starter"
+      ],
+      "variantCount": 4
+    },
+    {
+      "titleId": "0100D67006F14000",
+      "name": "Skies of Fury DX",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D7800E9E0000",
+      "name": "Trials of Mana",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "0100D7E011272000",
+      "name": "Carnage: Battle Arena",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D940063A0000",
+      "name": "MXGP3 - The Official Motocross Videogame",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100D9A005ED6000",
+      "name": "Taiko No Tatsujin Nintendo Switch Version!",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100DBF01000A000",
+      "name": "Burnout™ Paradise Remastered",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 4
+    },
+    {
+      "titleId": "0100DC300AC78000",
+      "name": "The Messenger",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100DCA0064A6000",
+      "name": "Luigi’s Mansion™ 3",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100DD300CF3A000",
+      "name": "Timespinner",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100DD6012644000",
+      "name": "Taiko no Tatsujin: Rhythmic Adventure Pack",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100DDB00DB38000",
+      "name": "Just Dance® 2020",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100DDD0085A4000",
+      "name": "Sushi Striker™: The Way of Sushido",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100DE200C350000",
+      "name": "Chasm",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100DE600BEEE000",
+      "name": "SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E1400BA96000",
+      "name": "Darksiders Warmastered Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E1A00AF40000",
+      "name": "Hungry Shark® World",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E1A019776000",
+      "name": "Isekai Bride Hunting ～ Kullulu Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E1D00FBDE000",
+      "name": "聖剣伝説3 トライアルズ オブ マナ",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E1F013674000",
+      "name": "FUSER™",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E2800C364000",
+      "name": "Donut County",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E390124D8000",
+      "name": "Ys IX: Monstrum Nox",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E4300C278000",
+      "name": "Hell is Other Demons",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E4600D31A000",
+      "name": "Mechstermination Force",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E5600D446000",
+      "name": "Ni no Kuni: Wrath of the White Witch",
+      "categories": [
+        "complete",
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100E5E00C464000",
+      "name": "SUPER DRAGON BALL HEROES WORLD MISSION",
+      "categories": [
+        "other",
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100E65002BB8000",
+      "name": "Stardew Valley: Nintendo Switch 2 Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 7
+    },
+    {
+      "titleId": "0100E6701231C000",
+      "name": "Mad Rat Dead",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E680149DC000",
+      "name": "Arcaea",
+      "categories": [
+        "complete",
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100E8000D5B8000",
+      "name": "Devil May Cry",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E910103B4000",
+      "name": "Thronebreaker: The Witcher Tales",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E95004038000",
+      "name": "Xenoblade Chronicles™ 2",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E9A00CB30000",
+      "name": "DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100E9D00D6C2000",
+      "name": "TOUHOU Spell Bubble",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EA80032EA000",
+      "name": "New Super Mario Bros.™ U Deluxe",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EAE010560000",
+      "name": "Captain Tsubasa: Rise of New Champions",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100EB100AB42000",
+      "name": "FINAL FANTASY XII THE ZODIAC AGE",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EB500D92E000",
+      "name": "GROOVE COASTER WAI WAI PARTY!!!!",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EB800B614000",
+      "name": "Freedom Planet",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EB901040A000",
+      "name": "Shantae and the Seven Sirens",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EBC00FE14000",
+      "name": "Nickelodeon Kart Racers 2: Grand Prix",
+      "categories": [
+        "other",
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100EBE00D5B0000",
+      "name": "Meow Motors",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EC4019AB4000",
+      "name": "- Isekai Harem Saver - ハーレム過ぎる異世界は俺が救う",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EC800800C000",
+      "name": "NARUTO SHIPPUDEN: Ultimate Ninja Storm Trilogy",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EC9010258000",
+      "name": "Streets of Rage 4",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100ECF012414000",
+      "name": "Touhou Hyouibana　～ Antinomy of Common Flowers.",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100ED100BA3A800",
+      "name": "Mario Kart Live Home Circuit",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100ED400EEC2000",
+      "name": "STORY OF SEASONS: Friends of Mineral Town",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EE800C93E000",
+      "name": "BLAZBLUE CENTRALFICTION Special Edition",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100EF5008FC4000",
+      "name": "Nippon Marathon",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F0401435E000",
+      "name": "Disney Speedstorm",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F10009870000",
+      "name": "Okami HD",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F110029C8000",
+      "name": "Yooka-Laylee",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F15003E64000",
+      "name": "Fire Emblem Warriors",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F17004156000",
+      "name": "Retro City Rampage DX",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F1900B144000",
+      "name": "REKT! High Octane Stunts",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F2200C984000",
+      "name": "Mortal Kombat 11",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100F2C0115B6000",
+      "name": "The Legend of Zelda™: Tears of the Kingdom – Nintendo Switch™ 2 Edition",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F3100DA46000",
+      "name": "初音ミク Project DIVA MEGA39s",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F3C00C400000",
+      "name": "SkyTime",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F3D001DEE000",
+      "name": "Puyo Puyo Tetris (EU)",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F4700B2E0000",
+      "name": "Moonlighter",
+      "categories": [
+        "ngplus",
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100F4C009322000",
+      "name": "Pikmin™ 3 Deluxe",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F4F00FD4E000",
+      "name": "Witch & Hero 2",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F6000EAA8000",
+      "name": "Must Dash Amigos",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F6D00D83E000",
+      "name": "SteamWorld Quest: Hand of Gilgamech",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F7901118C000",
+      "name": "Five Nights at Freddy's: Help Wanted",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F8F014190000",
+      "name": "Darksiders III",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F9C00F32E000",
+      "name": "Snakeybus",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100F9F00C696000",
+      "name": "Crash™ Team Racing Nitro-Fueled",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100FA1019772000",
+      "name": "Pure-hearted Gyaru and the Shape of Happiness",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100FA5010788000",
+      "name": "Game Builder Garage™",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100FAA00B168000",
+      "name": "Hello Neighbor",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100FB400D832000",
+      "name": "KILL la KILL -IF",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100FB700D224000",
+      "name": "LAYTON’S MYSTERY JOURNEY™: Katrielle and the Millionaires’ Conspiracy - Deluxe Edition",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100FB90103DE000",
+      "name": "Journey to the Savage Planet",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100FCF002A58000",
+      "name": "Ultimate Chicken Horse",
+      "categories": [
+        "unlocked"
+      ],
+      "variantCount": 2
+    },
+    {
+      "titleId": "0100FDB00AA80000",
+      "name": "レイトン ミステリージャーニー カトリーエイルと大富豪の陰謀 DX",
+      "categories": [
+        "starter"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100FE701475A000",
+      "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "0100FF500E34A000",
+      "name": "Xenoblade Chronicles™ Definitive Edition",
+      "categories": [
+        "complete",
+        "starter"
+      ],
+      "variantCount": 3
+    },
+    {
+      "titleId": "050011C01B938000",
+      "name": "Girls Frantic Clan",
+      "categories": [
+        "complete"
+      ],
+      "variantCount": 1
+    },
+    {
+      "titleId": "05004A5017C50000",
+      "name": "My Lady Sayo 絶対君主！小夜様 18+",
+      "categories": [
+        "other"
+      ],
+      "variantCount": 1
+    }
+  ]
+}

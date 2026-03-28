@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026.03.21.1",
+  "imageSize": 110,
+  "entries": {
+    "acnh-save-pack": "acnh-save-pack.png",
+    "dust-ptbr": "dust-ptbr.png",
+    "i-am-setsuna-ptbr": "i-am-setsuna-ptbr.png",
+    "mk8-mod-tools": "mk8-mod-tools.png",
+    "patapon-12-replay-ptbr": "patapon-12-replay-ptbr.png",
+    "puzzle-quest-immortal-edition-ptbr": "puzzle-quest-immortal-edition-ptbr.png",
+    "smash-cheats": "smash-cheats.png",
+    "synth-riders-ptbr": "synth-riders-ptbr.png"
+  },
+  "packSha256": "sha256:0219658eb8ebe671c0372ae0c6cd7366ecc840fa10911920ec7d08a14ab71420"
+}

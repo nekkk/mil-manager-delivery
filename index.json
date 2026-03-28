@@ -1,0 +1,214 @@
+{
+  "catalogName": "MIL Traducoes",
+  "channel": "stable",
+  "schemaVersion": "1.0",
+  "catalogRevision": "2026.03.21.1",
+  "generatedAt": "2026-03-28T20:15:51Z",
+  "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-catalog/",
+  "thumbPackRevision": "2026.03.21.1",
+  "thumbPackAssetId": "3886943c00c0f670dd7c500004e92550",
+  "thumbPackAssetType": "thumb-pack",
+  "thumbPackRelativePath": "thumbs-pack.zip",
+  "entries": [
+    {
+      "author": "denis",
+      "detailsUrl": "https://miltraducoes.com/",
+      "language": "pt-BR",
+      "id": "dust-ptbr",
+      "section": "translations",
+      "titleId": "0100B6E00A420000",
+      "name": "Dust: An Elysian Tail",
+      "summary": "Traducao em portugues do Brasil para Dust: An Elysian Tail com instalacao por ZIP em layout de SD.",
+      "packageVersion": "1.06.181214",
+      "contentRevision": "2025.12.02",
+      "featured": true,
+      "compatibility": {
+        "exactGameVersions": [
+          "1.06.181214"
+        ]
+      },
+      "tags": [
+        "traducao",
+        "layeredfs"
+      ],
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-catalog/thumbs/dust-ptbr.png",
+      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/741e12579bd7f31d7573565156635d345c0b521dd0c8bd04263e9f24f4580dfd.jpg",
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/77555f0a3cd4b3b6b2cdc5bb5f8fbc14320cbf34f6159c32900e40bb73ad3ffc.jpg",
+      "contentTypes": [
+        "translation"
+      ],
+      "introPtBr": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
+      "introEnUs": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
+      "intro": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
+      "summaryPtBr": "Traducao em portugues do Brasil para Dust: An Elysian Tail com instalacao por ZIP em layout de SD.",
+      "summaryEnUs": "Traducao em portugues do Brasil para Dust: An Elysian Tail com instalacao por ZIP em layout de SD.",
+      "variants": [],
+      "assetType": "translation-package",
+      "assetId": "eda965ba957cc5daaf412c05ada0957c",
+      "contentHash": "sha256:74d6129ff73b5787eee0880ad1e0d8351f8690d613d0cee359acde484db784c8",
+      "relativePath": "delivery/packages/ed/a9/eda965ba957cc5daaf412c05ada0957c.zip",
+      "size": 14253484
+    },
+    {
+      "author": "denis",
+      "detailsUrl": "https://www.miltraducoes.com/post/i-am-setsuna-porte-da-tradu%C3%A7%C3%A3o-para-switch",
+      "language": "pt-BR",
+      "id": "i-am-setsuna-ptbr",
+      "section": "translations",
+      "titleId": "0100849000BDA000",
+      "name": "I am Setsuna",
+      "summary": "Porte para Switch da traducao em portugues do Brasil de I Am Setsuna, com interface adaptada e texturas traduzidas.",
+      "packageVersion": "1.1.0",
+      "contentRevision": "2025.12.19",
+      "compatibility": {
+        "exactGameVersions": [
+          "1.1.0"
+        ]
+      },
+      "tags": [
+        "traducao",
+        "layeredfs",
+        "port"
+      ],
+      "featured": false,
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-catalog/thumbs/i-am-setsuna-ptbr.png",
+      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9a40f3674fd0e36445ee4958093c6ed9b972e6428049152decde822af9b0cf05.jpg",
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/026346fc743f3538aa7415c21e2c177f269d4d89e59e9e1a936db4b6b29c7748.jpg",
+      "contentTypes": [
+        "translation"
+      ],
+      "introPtBr": "Bringing back the JRPGs of yesteryear!",
+      "introEnUs": "Journey with Setsuna as she prepares to make the ultimate sacrifice and save the people of her land. A powerfully nostalgic experience, blending a classic style of story-telling, battle system and gameplay.",
+      "intro": "Bringing back the JRPGs of yesteryear!",
+      "summaryPtBr": "Porte para Switch da traducao em portugues do Brasil de I Am Setsuna, com interface adaptada e texturas traduzidas.",
+      "summaryEnUs": "Porte para Switch da traducao em portugues do Brasil de I Am Setsuna, com interface adaptada e texturas traduzidas.",
+      "variants": [],
+      "assetType": "translation-package",
+      "assetId": "4a071d9949c70b1b461f98ad910eaee2",
+      "contentHash": "sha256:d06f3aed088ca128c9489bbbc6ee6ac8a9a8198716b3ecb90d12f1aa01cf2542",
+      "relativePath": "delivery/packages/4a/07/4a071d9949c70b1b461f98ad910eaee2.zip",
+      "size": 28454738
+    },
+    {
+      "author": "denis",
+      "detailsUrl": "https://www.miltraducoes.com/post/tradu%C3%A7%C3%A3o-pt-br-patapon-1-2-replay",
+      "language": "pt-BR",
+      "id": "patapon-12-replay-ptbr",
+      "section": "translations",
+      "titleId": "01006DC020DB8000",
+      "name": "PATAPON 1+2 REPLAY",
+      "summary": "Traducao em portugues do Brasil para PATAPON 1+2 REPLAY, com localizacao quase completa para Switch.",
+      "packageVersion": "1.0.6",
+      "contentRevision": "2025.09.23",
+      "compatibility": {
+        "exactGameVersions": [
+          "1.0.4",
+          "1.0.6"
+        ]
+      },
+      "tags": [
+        "traducao",
+        "layeredfs"
+      ],
+      "featured": false,
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-catalog/thumbs/patapon-12-replay-ptbr.png",
+      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0de04238a85a4c5deb0a18e468c48a122bcd5050b4813938a579668a4a9685fa.jpg",
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/11de7f3936b94ddc9e148e9c390b22417e090f4a10c55333dc717239f5422664.jpg",
+      "contentTypes": [
+        "translation"
+      ],
+      "introPtBr": "Toque os Tambores! E ferva no modo Fever!!!",
+      "introEnUs": "Bang Your Drums!! And Catch the Fever!!!",
+      "intro": "Toque os Tambores! E ferva no modo Fever!!!",
+      "summaryPtBr": "Traducao em portugues do Brasil para PATAPON 1+2 REPLAY, com localizacao quase completa para Switch.",
+      "summaryEnUs": "Traducao em portugues do Brasil para PATAPON 1+2 REPLAY, com localizacao quase completa para Switch.",
+      "variants": [],
+      "assetType": "translation-package",
+      "assetId": "aa6534b42b296fc5f13a7850e62da644",
+      "contentHash": "sha256:5bf90cbf3230d4ac8523ee11fc685f1d69429c2f579cdeb1de376097273a8a2a",
+      "relativePath": "delivery/packages/aa/65/aa6534b42b296fc5f13a7850e62da644.zip",
+      "size": 15800635
+    },
+    {
+      "author": "denis e juniorpassos",
+      "detailsUrl": "https://www.miltraducoes.com/post/tradu%C3%A7%C3%A3o-pt-br-puzzle-quest-immortal-edition",
+      "language": "pt-BR",
+      "id": "puzzle-quest-immortal-edition-ptbr",
+      "section": "translations",
+      "titleId": "01001110232DA000",
+      "name": "Puzzle Quest: Immortal Edition",
+      "summary": "Traducao em portugues do Brasil para Puzzle Quest Immortal Edition com suporte as versoes recentes de Switch.",
+      "packageVersion": "1.0.3.3576",
+      "contentRevision": "2025.12.28",
+      "compatibility": {
+        "exactGameVersions": [
+          "1.0.0.3380",
+          "1.0.3.3576"
+        ]
+      },
+      "tags": [
+        "traducao",
+        "layeredfs"
+      ],
+      "featured": false,
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-catalog/thumbs/puzzle-quest-immortal-edition-ptbr.png",
+      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/20e2c98d5bdd8c3eed84b5678c8c1915185f5d95503eb4a79eb792c17c955f67.jpg",
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/3f97676e2c6b4726bdb81f05d379e681ac6b23bf92f6f0da446410f66ad9f029.jpg",
+      "contentTypes": [
+        "translation"
+      ],
+      "introPtBr": "Teste suas habilidades de combinação enquanto luta para salvar o reino de Etéria",
+      "introEnUs": "Test your match 3 skills as you battle to save the kingdom of Etheria",
+      "intro": "Teste suas habilidades de combinação enquanto luta para salvar o reino de Etéria",
+      "summaryPtBr": "Traducao em portugues do Brasil para Puzzle Quest Immortal Edition com suporte as versoes recentes de Switch.",
+      "summaryEnUs": "Traducao em portugues do Brasil para Puzzle Quest Immortal Edition com suporte as versoes recentes de Switch.",
+      "variants": [],
+      "assetType": "translation-package",
+      "assetId": "5bc4cd2ee92417ccceabe61d60621321",
+      "contentHash": "sha256:e67f84aaac7742c5763034f44e8a1020874ee4ec14d29370e35394a56c85e63e",
+      "relativePath": "delivery/packages/5b/c4/5bc4cd2ee92417ccceabe61d60621321.zip",
+      "size": 2363640
+    },
+    {
+      "author": "Junior Passos",
+      "detailsUrl": "https://miltraducoes.com/",
+      "language": "pt-BR",
+      "id": "synth-riders-ptbr",
+      "section": "translations",
+      "titleId": "010022E0247B2000",
+      "name": "Synth Riders",
+      "summary": "Traducao em portugues do Brasil para Synth Riders, distribuida em pacote para instalacao via layout de SD.",
+      "packageVersion": "0.1.1a1",
+      "contentRevision": "2026.03.21",
+      "compatibility": {
+        "exactGameVersions": [
+          "0.1.1a1"
+        ]
+      },
+      "tags": [
+        "traducao",
+        "layeredfs"
+      ],
+      "featured": false,
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-catalog/thumbs/synth-riders-ptbr.png",
+      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab60c6e8dcc7082d80a45e7dc25e1a77c3235c1b3d2a8416b9c593af5425e652.jpg",
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/c7ae475ad3b4a436f649c575dcc98a9b1add7469c0dd4d1f5683d304430bc62a.jpg",
+      "contentTypes": [
+        "translation"
+      ],
+      "introPtBr": "Sinta o ritmo do futuro cyberpunk com 28 músicas incríveis!",
+      "introEnUs": "Ride the rhythm through a cyberpunk future with 28 amazing songs!",
+      "intro": "Sinta o ritmo do futuro cyberpunk com 28 músicas incríveis!",
+      "summaryPtBr": "Traducao em portugues do Brasil para Synth Riders, distribuida em pacote para instalacao via layout de SD.",
+      "summaryEnUs": "Traducao em portugues do Brasil para Synth Riders, distribuida em pacote para instalacao via layout de SD.",
+      "variants": [],
+      "assetType": "translation-package",
+      "assetId": "f20175b199a9cc8e7e7d60d1e56cba83",
+      "contentHash": "sha256:8396d2951b1e710d686b0def424b0bb3e67bd366e0d3b0ac3c5c0930f6efc864",
+      "relativePath": "delivery/packages/f2/01/f20175b199a9cc8e7e7d60d1e56cba83.zip",
+      "size": 34374438
+    }
+  ],
+  "thumbPackSha256": "sha256:0219658eb8ebe671c0372ae0c6cd7366ecc840fa10911920ec7d08a14ab71420",
+  "thumbPackSize": 227555
+}

@@ -1,0 +1,6 @@
+[Infinite Coins]
+
+04000000 01454c60 0001869F
+
+[Infinite Coins]
+04000000 01454C60 0001869F

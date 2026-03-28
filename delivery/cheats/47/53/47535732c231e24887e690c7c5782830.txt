@@ -1,0 +1,5 @@
+[gold add]
+TRUE
+
+[gold mov]
+FALSE
