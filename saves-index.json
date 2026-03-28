@@ -1,9 +1,9 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-03-28T20:25:24Z",
+  "generatedAt": "2026-03-28T22:31:04Z",
   "generator": "MILSaveGamesAggregator",
   "catalogRevision": "2026.03.21.1",
-  "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-catalog/",
+  "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
   "titles": [
     {
       "titleId": "0100000000010000",
