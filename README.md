@@ -1,1 +1,0 @@
-# mil-manager-delivery
