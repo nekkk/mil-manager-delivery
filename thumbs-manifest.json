@@ -4,7 +4,6 @@
   "imageSize": 110,
   "entries": {
     "112-operator-ptbr": "112-operator-ptbr.png",
-    "acnh-save-pack": "acnh-save-pack.png",
     "adventure-time-pirates-enchiridion-ptbr": "adventure-time-pirates-enchiridion-ptbr.png",
     "agatha-christie-death-on-the-nile-ptbr": "agatha-christie-death-on-the-nile-ptbr.png",
     "and-roger-ptbr": "and-roger-ptbr.png",
@@ -104,7 +103,6 @@
     "silent-hope-ptbr": "silent-hope-ptbr.png",
     "skyrim-anniversary-edition-mil-dub": "skyrim-anniversary-edition-mil-dub.png",
     "skyrim-anniversary-edition-ptbr": "skyrim-anniversary-edition-ptbr.png",
-    "smash-cheats": "smash-cheats.png",
     "sol-search-of-light-ptbr": "sol-search-of-light-ptbr.png",
     "spells-secrets-ptbr": "spells-secrets-ptbr.png",
     "spindle-delson": "spindle-delson.png",
@@ -142,5 +140,5 @@
     "xuan-yuan-sword-7-ptbr": "xuan-yuan-sword-7-ptbr.png",
     "yokus-island-express-ptbr": "yokus-island-express-ptbr.png"
   },
-  "packSha256": "sha256:9bccfdaf1dc2ecd48626e20c1b586b52dfa2290b0e8390efacdfc4db551d9da4"
+  "packSha256": "sha256:38db7794bc10c67a19fb1672efb9d2890b242dce74dbd7251ed7e3315415f444"
 }
