@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-04-03T21:21:56Z",
+  "generatedAt": "2026-04-04T06:02:38Z",
   "generator": "MILCheatsAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -8,7 +8,7 @@
   "cheatsPackAssetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "cheatsPackAssetType": "cheat-pack",
   "cheatsPackRelativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "cheatsPackSha256": "sha256:eaf89bfe660e0f555de0767e9359d82c08180397747145ebcca1dccc162e62a3",
+  "cheatsPackSha256": "sha256:0784327166d5e58c3272c1a631c80878320f3ae74e968099381cccec2866a2ce",
   "cheatsPackSize": 8416973,
   "watchedTitleIds": [],
   "titles": [
@@ -8758,7 +8758,7 @@
     },
     {
       "titleId": "0100152000022000",
-      "name": "Mario Kart 8 Deluxe - Mods & Tools",
+      "name": "Mario Kart™ 8 Deluxe",
       "categories": [
         "fps",
         "general",
@@ -15664,7 +15664,7 @@
     },
     {
       "titleId": "010021601C496000",
-      "name": "010021601C496000",
+      "name": "Kingdom Come Deliverance Royal Kcdbrasil",
       "categories": [
         "graphics"
       ],
@@ -67655,7 +67655,7 @@
     },
     {
       "titleId": "010081C0191D8000",
-      "name": "010081C0191D8000",
+      "name": "Rune Factory 3 Special Edition Mil",
       "categories": [
         "general"
       ],
@@ -69076,7 +69076,7 @@
     },
     {
       "titleId": "0100849000BDA000",
-      "name": "I Am Setsuna - PT-BR",
+      "name": "I am Setsuna",
       "categories": [
         "general"
       ],
@@ -69500,7 +69500,7 @@
     },
     {
       "titleId": "010085500130A000",
-      "name": "010085500130A000",
+      "name": "Lego City Undercover Mil Dub",
       "categories": [
         "general"
       ],
@@ -82532,7 +82532,7 @@
     },
     {
       "titleId": "0100A0A01D520000",
-      "name": "0100A0A01D520000",
+      "name": "Snow Bros Wonderland Mil",
       "categories": [
         "general"
       ],
@@ -94133,7 +94133,7 @@
     },
     {
       "titleId": "0100B6E00A420000",
-      "name": "Dust: An Elysian Tail - PT-BR",
+      "name": "Dust: An Elysian Tail",
       "categories": [
         "general"
       ],
@@ -126539,7 +126539,7 @@
     },
     {
       "titleId": "0100F8F0000A2000",
-      "name": "0100F8F0000A2000",
+      "name": "Splatoon 2 Gbj",
       "categories": [
         "general"
       ],

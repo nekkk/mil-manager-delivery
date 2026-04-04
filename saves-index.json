@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-04-03T21:26:18Z",
+  "generatedAt": "2026-04-04T06:11:07Z",
   "generator": "MILSaveGamesAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -1158,7 +1158,7 @@
     },
     {
       "titleId": "0100152000022000",
-      "name": "Mario Kart 8 Deluxe - Mods & Tools",
+      "name": "Mario Kart™ 8 Deluxe",
       "categories": [
         "unlocked"
       ],
@@ -1176,9 +1176,9 @@
           "assetId": "27a7e04ec010d4b88ff393da7465925c",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/27/a7/27a7e04ec010d4b88ff393da7465925c.zip",
-          "contentHash": "sha256:86185595d539412203377bc123b7789786eb3945d25cd9f82aeabf9978d86e0b",
-          "sha256": "sha256:86185595d539412203377bc123b7789786eb3945d25cd9f82aeabf9978d86e0b",
-          "size": 12372755,
+          "contentHash": "sha256:ad34852a58a8eb787682ddb57b102c26b07f45124e84e34ddfaaf17ba178c18b",
+          "sha256": "sha256:ad34852a58a8eb787682ddb57b102c26b07f45124e84e34ddfaaf17ba178c18b",
+          "size": 12371459,
           "origins": [
             "viren070"
           ]
@@ -1196,9 +1196,9 @@
           "assetId": "ac3be516d8184cb4116bb51bbdacd6e3",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/ac/3b/ac3be516d8184cb4116bb51bbdacd6e3.zip",
-          "contentHash": "sha256:00cf623917cf419c2ce95eab91bd3b2b6db610af379a33728d9ce9369466d010",
-          "sha256": "sha256:00cf623917cf419c2ce95eab91bd3b2b6db610af379a33728d9ce9369466d010",
-          "size": 15316865,
+          "contentHash": "sha256:a0dee14295c24ffec68d2ed24380e261567a5cdc1d930cf61ece99799737b1a0",
+          "sha256": "sha256:a0dee14295c24ffec68d2ed24380e261567a5cdc1d930cf61ece99799737b1a0",
+          "size": 15315521,
           "origins": [
             "viren070"
           ]
@@ -1216,9 +1216,9 @@
           "assetId": "6a783ac22f94e30ad8e4ecd0cd082af1",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/6a/78/6a783ac22f94e30ad8e4ecd0cd082af1.zip",
-          "contentHash": "sha256:69326b44f2030861695319427cbabc6512ff9f703a02d7273b1df1af01c4bbbb",
-          "sha256": "sha256:69326b44f2030861695319427cbabc6512ff9f703a02d7273b1df1af01c4bbbb",
-          "size": 6291560,
+          "contentHash": "sha256:63616d2a21913b939a8aa44cae0174553aab0b835f00e0dad47ad1170e3f638a",
+          "sha256": "sha256:63616d2a21913b939a8aa44cae0174553aab0b835f00e0dad47ad1170e3f638a",
+          "size": 6290312,
           "origins": [
             "viren070"
           ]
