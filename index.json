@@ -3,7 +3,7 @@
   "channel": "stable",
   "schemaVersion": "1.0",
   "catalogRevision": "2026.03.21.1",
-  "generatedAt": "2026-04-04T07:25:51Z",
+  "generatedAt": "2026-04-05T19:02:38Z",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
   "thumbPackRevision": "2026.03.21.1",
   "thumbPackAssetId": "3886943c00c0f670dd7c500004e92550",
@@ -285,29 +285,29 @@
       "section": "translations",
       "titleId": "01007CD01FAE0000",
       "name": "BAKERU",
+      "introPtBr": "Bakeru's adventure begins in this Japan-esque Wild Action Game!",
+      "introEnUs": "Bakeru's adventure begins in this Japan-esque Wild Action Game!",
       "packageVersion": "1.0.0",
-      "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaEAhBOFAgCU9VaR8mJRodWCMiMj02X0cyEQ8JF1ByJRYCWgZUHDNLOF4HLA9rPTMdFQ8rIw",
       "contentTypes": [
         "translation"
       ],
+      "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaEAhBOFAgCU9VaR8mJRodWCMiMj02X0cyEQ8JF1ByJRYCWgZUHDNLOF4HLA9rPTMdFQ8rIw",
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/a4b0b74df2093efcd7314d64f099de072b8c528e742743b3b64edd10f1df8dab.jpg",
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/bakeru-ptbr.png",
       "compatibility": {
         "exactGameVersions": [
           "1.0.0"
         ]
       },
-      "summary": "",
       "featured": false,
+      "variants": [],
+      "summary": "",
       "tags": [],
-      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/bakeru-ptbr.png",
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/29bfec6bb0c5ac78fd18b504daa32d704c6706e597478c8d4d48532049dcb72b.jpg",
-      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/a4b0b74df2093efcd7314d64f099de072b8c528e742743b3b64edd10f1df8dab.jpg",
       "installTarget": "",
-      "introPtBr": "Bakeru's adventure begins in this Japan-esque Wild Action Game!",
-      "introEnUs": "Bakeru's adventure begins in this Japan-esque Wild Action Game!",
       "intro": "Bakeru's adventure begins in this Japan-esque Wild Action Game!",
       "summaryPtBr": "",
       "summaryEnUs": "",
-      "variants": [],
       "assetType": "translation-package",
       "assetId": "1674e9d974d819dbb92ea0b5a828a96b"
     },
@@ -1265,28 +1265,28 @@
       "section": "translations",
       "titleId": "0100B6E00A420000",
       "name": "Dust: An Elysian Tail",
-      "summary": "Traducao em portugues do Brasil para Dust: An Elysian Tail com instalacao por ZIP em layout de SD.",
+      "introPtBr": "🌊 Mergulhe em um mundo 🌟 deslumbrante pintado à ✋ mão em uma 🔍 busca por sua verdadeira identidade. 🧩 Como o misterioso guerreiro ⚔️ Dust, sua jornada cheia de 🎬 ação o levará de 🌿 clareiras pacíficas a ⛰️ picos de montanhas cobertos de ❄️ neve e 🌌 além.",
+      "introEnUs": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
+      "summary": "OBSERVAÇÕES:\nEsse porte e tradução de alta complexidade só foi possível graças aos ensinamentos do mestre Krisp, o compartilhamento e gentileza do Lucaz \"BIG BOSS\" Andrade e o apoio incessante de toda a comunidade \"Aprendendo Romhack\".\nMuito obrigado!!",
+      "summaryPtBr": "OBSERVAÇÕES:\nEsse porte e tradução de alta complexidade só foi possível graças aos ensinamentos do mestre Krisp, o compartilhamento e gentileza do Lucaz \"BIG BOSS\" Andrade e o apoio incessante de toda a comunidade \"Aprendendo Romhack\".\nMuito obrigado!!",
+      "summaryEnUs": "NOTES:\nThis highly complex version and translation was only possible thanks to the teachings of Master Krisp, the sharing and kindness of Lucaz \"BIG BOSS\" Andrade, and the unwavering support of the entire \"Learning Romhack\" community.\nThank you very much!!",
       "contentRevision": "2025.12.02",
-      "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaNiFZXSMnBG5VHA9bDkM5TANRViRBY0YYJQMILwMeRT88GT8ROj1ELkIuDB1JQDAeAg0GIw",
       "contentTypes": [
         "translation"
       ],
-      "featured": true,
+      "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaNiFZXSMnBG5VHA9bDkM5TANRViRBY0YYJQMILwMeRT88GT8ROj1ELkIuDB1JQDAeAg0GIw",
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/77555f0a3cd4b3b6b2cdc5bb5f8fbc14320cbf34f6159c32900e40bb73ad3ffc.jpg",
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/dust-ptbr.png",
       "tags": [
         "traducao",
         "layeredfs"
       ],
-      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/dust-ptbr.png",
-      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/741e12579bd7f31d7573565156635d345c0b521dd0c8bd04263e9f24f4580dfd.jpg",
-      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/77555f0a3cd4b3b6b2cdc5bb5f8fbc14320cbf34f6159c32900e40bb73ad3ffc.jpg",
-      "installTarget": "",
-      "introPtBr": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
-      "introEnUs": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
-      "intro": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
-      "summaryPtBr": "Traducao em portugues do Brasil para Dust: An Elysian Tail com instalacao por ZIP em layout de SD.",
-      "summaryEnUs": "Traducao em portugues do Brasil para Dust: An Elysian Tail com instalacao por ZIP em layout de SD.",
-      "compatibility": {},
+      "featured": true,
       "variants": [],
+      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/741e12579bd7f31d7573565156635d345c0b521dd0c8bd04263e9f24f4580dfd.jpg",
+      "installTarget": "",
+      "intro": "🌊 Mergulhe em um mundo 🌟 deslumbrante pintado à ✋ mão em uma 🔍 busca por sua verdadeira identidade. 🧩 Como o misterioso guerreiro ⚔️ Dust, sua jornada cheia de 🎬 ação o levará de 🌿 clareiras pacíficas a ⛰️ picos de montanhas cobertos de ❄️ neve e 🌌 além.",
+      "compatibility": {},
       "assetType": "translation-package",
       "assetId": "eda965ba957cc5daaf412c05ada0957c"
     },
@@ -5243,6 +5243,6 @@
       "assetId": "501d0d5bc09278b0212e9e6610318abc"
     }
   ],
-  "thumbPackSha256": "sha256:186cfa2dd0b4400e8dbbee971865a27d678e71a6029c19b7acffe775e7597c48",
+  "thumbPackSha256": "sha256:e61638ec69a03ea622c22502803e8606497858670cce608a66328e028a83cd86",
   "thumbPackSize": 4237698
 }
