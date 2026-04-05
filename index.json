@@ -3,7 +3,7 @@
   "channel": "stable",
   "schemaVersion": "1.0",
   "catalogRevision": "2026.03.21.1",
-  "generatedAt": "2026-04-05T19:02:38Z",
+  "generatedAt": "2026-04-05T19:19:52Z",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
   "thumbPackRevision": "2026.03.21.1",
   "thumbPackAssetId": "3886943c00c0f670dd7c500004e92550",
@@ -1258,18 +1258,19 @@
       "assetId": "d321e4a91a74f5955338f64b7d44d1e8"
     },
     {
-      "author": "Lucaz Andrade",
+      "author": "Lucaz Andrade \"BIG BOSS\" Andrade",
       "detailsUrl": "https://miltraducoes.com/",
       "language": "pt-BR",
       "id": "dust-ptbr",
       "section": "translations",
       "titleId": "0100B6E00A420000",
       "name": "Dust: An Elysian Tail",
-      "introPtBr": "🌊 Mergulhe em um mundo 🌟 deslumbrante pintado à ✋ mão em uma 🔍 busca por sua verdadeira identidade. 🧩 Como o misterioso guerreiro ⚔️ Dust, sua jornada cheia de 🎬 ação o levará de 🌿 clareiras pacíficas a ⛰️ picos de montanhas cobertos de ❄️ neve e 🌌 além.",
+      "introPtBr": "Mergulhe em um mundo deslumbrante pintado à mão em uma busca por sua verdadeira identidade. Como o misterioso guerreiro Dust, sua jornada cheia de ação o levará de clareiras pacíficas a picos de montanhas cobertos de neve e além.",
       "introEnUs": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
-      "summary": "OBSERVAÇÕES:\nEsse porte e tradução de alta complexidade só foi possível graças aos ensinamentos do mestre Krisp, o compartilhamento e gentileza do Lucaz \"BIG BOSS\" Andrade e o apoio incessante de toda a comunidade \"Aprendendo Romhack\".\nMuito obrigado!!",
-      "summaryPtBr": "OBSERVAÇÕES:\nEsse porte e tradução de alta complexidade só foi possível graças aos ensinamentos do mestre Krisp, o compartilhamento e gentileza do Lucaz \"BIG BOSS\" Andrade e o apoio incessante de toda a comunidade \"Aprendendo Romhack\".\nMuito obrigado!!",
-      "summaryEnUs": "NOTES:\nThis highly complex version and translation was only possible thanks to the teachings of Master Krisp, the sharing and kindness of Lucaz \"BIG BOSS\" Andrade, and the unwavering support of the entire \"Learning Romhack\" community.\nThank you very much!!",
+      "summary": "OBSERVAÇÕES:\nEsse porte e tradução de alta complexidade só foi possível graças aos ensinamentos do mestre Krisp, o compartilhamento e gentileza do Lucaz \"BIG BOSS\" Andrade e o apoio incessante de toda a comunidade \"Aprendendo Romhack\". Muito obrigado!!",
+      "summaryPtBr": "OBSERVAÇÕES:\nEsse porte e tradução de alta complexidade só foi possível graças aos ensinamentos do mestre Krisp, o compartilhamento e gentileza do Lucaz \"BIG BOSS\" Andrade e o apoio incessante de toda a comunidade \"Aprendendo Romhack\". Muito obrigado!!",
+      "summaryEnUs": "NOTES:\nThis highly complex version and translation was only possible thanks to the teachings of Master Krisp, the sharing and kindness of Lucaz \"BIG BOSS\" Andrade, and the unwavering support of the entire \"Learning Romhack\" community. Thank you very much!!",
+      "packageVersion": "1.06.181214",
       "contentRevision": "2025.12.02",
       "contentTypes": [
         "translation"
@@ -1281,12 +1282,14 @@
         "traducao",
         "layeredfs"
       ],
+      "compatibility": {
+        "maxGameVersion": "1.06.181214"
+      },
       "featured": true,
       "variants": [],
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/741e12579bd7f31d7573565156635d345c0b521dd0c8bd04263e9f24f4580dfd.jpg",
       "installTarget": "",
-      "intro": "🌊 Mergulhe em um mundo 🌟 deslumbrante pintado à ✋ mão em uma 🔍 busca por sua verdadeira identidade. 🧩 Como o misterioso guerreiro ⚔️ Dust, sua jornada cheia de 🎬 ação o levará de 🌿 clareiras pacíficas a ⛰️ picos de montanhas cobertos de ❄️ neve e 🌌 além.",
-      "compatibility": {},
+      "intro": "Mergulhe em um mundo deslumbrante pintado à mão em uma busca por sua verdadeira identidade. Como o misterioso guerreiro Dust, sua jornada cheia de ação o levará de clareiras pacíficas a picos de montanhas cobertos de neve e além.",
       "assetType": "translation-package",
       "assetId": "eda965ba957cc5daaf412c05ada0957c"
     },
@@ -5243,6 +5246,6 @@
       "assetId": "501d0d5bc09278b0212e9e6610318abc"
     }
   ],
-  "thumbPackSha256": "sha256:e61638ec69a03ea622c22502803e8606497858670cce608a66328e028a83cd86",
+  "thumbPackSha256": "sha256:cab37c909e662740a4d868a8a9fca99367b4dcfa1d945121010672768f1184d8",
   "thumbPackSize": 4237698
 }
