@@ -3,7 +3,7 @@
   "channel": "stable",
   "schemaVersion": "1.0",
   "catalogRevision": "2026.03.21.1",
-  "generatedAt": "2026-04-06T00:42:55Z",
+  "generatedAt": "2026-04-06T00:50:59Z",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
   "thumbPackRevision": "2026.03.21.1",
   "thumbPackAssetId": "3886943c00c0f670dd7c500004e92550",
@@ -5045,35 +5045,35 @@
     },
     {
       "author": "MIL",
-      "detailsUrl": "https://miltraducoes.com/",
+      "detailsUrl": "https://www.miltraducoes.com/post/tradu%C3%A7%C3%A3o-pt-br-do-jogo-witchspring-r",
       "language": "pt-BR",
       "id": "witchspring-r-ptbr",
       "section": "translations",
       "titleId": "010018401EEA8000",
       "name": "WitchSpring R",
+      "introPtBr": "A história de uma jovem bruxa que busca sobreviver a uma perseguição brutal.",
+      "introEnUs": "The story of a young witch who seeks power to survive a brutal witch hunt.",
+      "summary": "WitchSpring R é um RPG com foco na narrativa e um sistema de jogo único que combina elementos de simulação, coleção de itens e aventura. Descubra a combinação perfeita entre gráficos que remetem a contos de fadas e um mundo ricamente construído! Acompanhe Pieberry, uma jovem bruxa fugindo de uma caça às bruxas, em sua grande aventura!",
+      "summaryPtBr": "WitchSpring R é um RPG com foco na narrativa e um sistema de jogo único que combina elementos de simulação, coleção de itens e aventura. Descubra a combinação perfeita entre gráficos que remetem a contos de fadas e um mundo ricamente construído! Acompanhe Pieberry, uma jovem bruxa fugindo de uma caça às bruxas, em sua grande aventura!",
+      "summaryEnUs": "WitchSpring R is a story-driven RPG with a unique gaming system blending elements of simulation, item collection, and adventure. Discover the perfect combination of fairytale-like graphics and deep worldbuilding! Accompany Pieberry, a young witch running from a Witch Hunt, as she embarks on a grand adventure!",
       "packageVersion": "1.4.9",
-      "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaFDVZXSAhMn9VVQlZNkUjFDkLUB05akQZWxkOLg1mPjgKVzwbPxNmEHcbPxVXWA8ZWFZdJw",
       "contentTypes": [
         "translation"
       ],
+      "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaFDVZXSAhMn9VVQlZNkUjFDkLUB05akQZWxkOLg1mPjgKVzwbPxNmEHcbPxVXWA8ZWFZdJw",
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/ac3333176969ebbd8d8ee302eb51fcf7e1cc3af88c39aa440da5edc0475af0da.jpg",
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/witchspring-r-ptbr.png",
       "compatibility": {
         "exactGameVersions": [
           "1.4.9"
         ]
       },
-      "summary": "",
       "featured": false,
-      "tags": [],
-      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/witchspring-r-ptbr.png",
-      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7f1f9422b47f44dccd268907850ed4b2977c84e762b7843e90d6891e11fe70cc.jpg",
-      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/ac3333176969ebbd8d8ee302eb51fcf7e1cc3af88c39aa440da5edc0475af0da.jpg",
-      "installTarget": "",
-      "introPtBr": "A história de uma jovem bruxa que busca sobreviver a uma perseguição brutal.",
-      "introEnUs": "The story of a young witch who seeks power to survive a brutal witch hunt.",
-      "intro": "A história de uma jovem bruxa que busca sobreviver a uma perseguição brutal.",
-      "summaryPtBr": "",
-      "summaryEnUs": "",
       "variants": [],
+      "tags": [],
+      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7f1f9422b47f44dccd268907850ed4b2977c84e762b7843e90d6891e11fe70cc.jpg",
+      "installTarget": "",
+      "intro": "A história de uma jovem bruxa que busca sobreviver a uma perseguição brutal.",
       "assetType": "translation-package",
       "assetId": "f490cf75242740d6f69d9e5bc33d5873"
     },
@@ -5085,9 +5085,16 @@
       "section": "translations",
       "titleId": "0100522007AAA000",
       "name": "Wizard of Legend",
+      "introPtBr": "Ação cooperativa de lançamento de feitiços!",
+      "introEnUs": "Co-op spell-slinging action!",
+      "summary": "Wizard of Legend é um jogo de exploração de masmorras em ritmo acelerado, com ênfase em combate mágico dinâmico. Movimentos rápidos e o uso ainda mais rápido de feitiços permitem que você encadeie magias para desferir combinações devastadoras contra seus inimigos! Desbloqueie mais de 100 feitiços únicos e descubra poderosas combinações! Uma grande variedade de feitiços elementais permite que você crie um conjunto de magias que se adapte perfeitamente ao seu estilo de jogo. Mergulhe de cabeça na batalha ou fique à distância e deixe seus lacaios fazerem o trabalho por você.",
+      "summaryPtBr": "Wizard of Legend é um jogo de exploração de masmorras em ritmo acelerado, com ênfase em combate mágico dinâmico. Movimentos rápidos e o uso ainda mais rápido de feitiços permitem que você encadeie magias para desferir combinações devastadoras contra seus inimigos! Desbloqueie mais de 100 feitiços únicos e descubra poderosas combinações! Uma grande variedade de feitiços elementais permite que você crie um conjunto de magias que se adapte perfeitamente ao seu estilo de jogo. Mergulhe de cabeça na batalha ou fique à distância e deixe seus lacaios fazerem o trabalho por você.",
+      "summaryEnUs": "Wizard of Legend is a fast-paced dungeon crawler with an emphasis on dynamic magical combat. Quick movement and even quicker use of spells will allow you to chain spells together to unleash devastating combinations against your enemies! Unlock over 100 unique spells and discover powerful spell combinations! A wide variety of elemental spells allows you to create a hand best suited to your play style. Dive head first into the fray or stand back and let your minions do the work for you.",
       "contentTypes": [
         "translation"
       ],
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/d4abcd1c5af013568888d81cf072935c378440ad78bc707c8a7ef980e1277c47.jpg",
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/wizard-of-legend-ripman.png",
       "variants": [
         {
           "id": "game-1.22",
@@ -5116,18 +5123,11 @@
           }
         }
       ],
-      "summary": "",
       "featured": false,
       "tags": [],
-      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/wizard-of-legend-ripman.png",
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7d9fb141c8650330eee79dff26033346f41d10a96e90bf43c053556ff87e2d73.jpg",
-      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/d4abcd1c5af013568888d81cf072935c378440ad78bc707c8a7ef980e1277c47.jpg",
       "installTarget": "",
-      "introPtBr": "Co-op spell-slinging action!",
-      "introEnUs": "Co-op spell-slinging action!",
-      "intro": "Co-op spell-slinging action!",
-      "summaryPtBr": "",
-      "summaryEnUs": "",
+      "intro": "Ação cooperativa de lançamento de feitiços!",
       "compatibility": {},
       "assetType": "translation-package",
       "assetId": "23254f34750c2aefb0495b3116528197",
@@ -5135,15 +5135,22 @@
     },
     {
       "author": "MIL",
-      "detailsUrl": "https://miltraducoes.com/",
+      "detailsUrl": "https://www.miltraducoes.com/post/tradu%C3%A7%C3%A3o-pt-br-xiii",
       "language": "pt-BR",
       "id": "xiii-ptbr",
       "section": "translations",
       "titleId": "01006CA00E9FA000",
       "name": "XIII",
+      "introPtBr": "QUEM É VOCÊ, DE FATO?",
+      "introEnUs": "WHO ARE YOU, REALLY?",
+      "summary": "Você assume o papel de um homem com amnésia, sem memória de quem é, mas com habilidades de combate impressionantes. Enquanto tenta descobrir sua identidade, você se vê no meio de uma conspiração mortal, sendo caçado por forças poderosas. A narrativa é cheia de reviravoltas, e a cada novo capítulo, a tensão aumenta. A estética inspirada em quadrinhos traz um visual único e vibrante, que dá vida à trama de forma inesquecível.",
+      "summaryPtBr": "Você assume o papel de um homem com amnésia, sem memória de quem é, mas com habilidades de combate impressionantes. Enquanto tenta descobrir sua identidade, você se vê no meio de uma conspiração mortal, sendo caçado por forças poderosas. A narrativa é cheia de reviravoltas, e a cada novo capítulo, a tensão aumenta. A estética inspirada em quadrinhos traz um visual único e vibrante, que dá vida à trama de forma inesquecível.",
+      "summaryEnUs": "You take on the role of a man with amnesia, with no memory of who he is, but with impressive combat skills. While trying to discover your identity, you find yourself in the middle of a deadly conspiracy, hunted by powerful forces. The narrative is full of twists and turns, and with each new chapter, the tension increases. The comic book-inspired aesthetic brings a unique and vibrant visual style, bringing the plot to life in an unforgettable way.",
       "contentTypes": [
         "translation"
       ],
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/b1a5a3e4c94b7f1f1a9eab059d99a2f90fe42cd5ed512030b91b64f64654a79c.jpg",
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/xiii-ptbr.png",
       "variants": [
         {
           "id": "game-1.6.8166",
@@ -5172,18 +5179,11 @@
           }
         }
       ],
-      "summary": "",
       "featured": false,
       "tags": [],
-      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/xiii-ptbr.png",
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1cc9f89dcf9521e05a8c4e705283f3538bde34a0c0d1bb0fe05c1c34a140a5d5.jpg",
-      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/b1a5a3e4c94b7f1f1a9eab059d99a2f90fe42cd5ed512030b91b64f64654a79c.jpg",
       "installTarget": "",
-      "introPtBr": "QUEM É VOCÊ, DE FATO?",
-      "introEnUs": "WHO ARE YOU, REALLY?",
       "intro": "QUEM É VOCÊ, DE FATO?",
-      "summaryPtBr": "",
-      "summaryEnUs": "",
       "compatibility": {},
       "assetType": "translation-package",
       "assetId": "3ca93385c6316e19f0d374e600e5485c",
@@ -5191,7 +5191,7 @@
     },
     {
       "author": "MIL",
-      "detailsUrl": "https://miltraducoes.com/",
+      "detailsUrl": "https://www.miltraducoes.com/post/tradu%C3%A7%C3%A3o-pt-br-do-jogo-xuan-yuan-sword-7",
       "language": "pt-BR",
       "id": "xuan-yuan-sword-7-ptbr",
       "section": "translations",
@@ -5199,6 +5199,9 @@
       "name": "Xuan Yuan Sword 7",
       "introPtBr": "Aventura-te numa nova versão fantástica da China Antiga neste RPG de ação em 3D!",
       "introEnUs": "Journey through a fantastical reimagining of ancient China in this 3D action RPG!",
+      "summary": "Xuan-Yuan Sword 7 é um RPG de ação repleto de mitologia chinesa, aventura e combate em tempo real. Com um enredo envolvente, cheio de mistérios e intriga, você assumirá o papel de um herói em uma jornada para resolver problemas familiares e combater forças sobrenaturais em um mundo inspirado pela rica cultura da China antiga",
+      "summaryPtBr": "Xuan-Yuan Sword 7 é um RPG de ação repleto de mitologia chinesa, aventura e combate em tempo real. Com um enredo envolvente, cheio de mistérios e intriga, você assumirá o papel de um herói em uma jornada para resolver problemas familiares e combater forças sobrenaturais em um mundo inspirado pela rica cultura da China antiga",
+      "summaryEnUs": "Xuan-Yuan Sword 7 is an action RPG filled with Chinese mythology, adventure, and real-time combat. With an engaging storyline full of mystery and intrigue, you'll take on the role of a hero on a journey to resolve family problems and combat supernatural forces in a world inspired by the rich culture of ancient China.",
       "contentTypes": [
         "translation"
       ],
@@ -5207,27 +5210,27 @@
       "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/xuan-yuan-sword-7-ptbr.png",
       "featured": false,
       "variants": [],
-      "summary": "",
       "tags": [],
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/63e3a9734e5e945c72ed1c1df2fb652b2c890b08ad2b63a6a589f7a8560e840a.jpg",
       "installTarget": "",
       "intro": "Aventura-te numa nova versão fantástica da China Antiga neste RPG de ação em 3D!",
-      "summaryPtBr": "",
-      "summaryEnUs": "",
       "compatibility": {},
       "assetType": "translation-package",
       "assetId": "34be855d63e5243d493182ed4c9aa6f5"
     },
     {
       "author": "MIL",
-      "detailsUrl": "https://miltraducoes.com/",
+      "detailsUrl": "https://www.miltraducoes.com/post/tradu%C3%A7%C3%A3o-pt-br-do-jogo-yoku-s-island-express",
       "language": "pt-BR",
       "id": "yokus-island-express-ptbr",
       "section": "translations",
       "titleId": "010002D00632E000",
       "name": "Yoku's Island Express",
-      "introPtBr": "Yoku chegou em Mokumana e está pronto para uma vida pacata tomando banho de sol e fazendo entregas em um paraíso tropical!",
-      "introEnUs": "Meet Yoku, the pint-sized postman protagonist of Yoku's Island Express! \n\nUse a unique blend of pinball mechanics, platforming and open world exploration to unlock the secrets of  Mokumana Island, help the locals, awaken ancient deities and much more in this amazing new tropical adventure!",
+      "introPtBr": "Conheça Yoku, o carteiro baixinho protagonista de Yoku's Island Express!",
+      "introEnUs": "Meet Yoku, the pint-sized postman protagonist of Yoku's Island Express!",
+      "summary": "Yoku chegou em Mokumana e está pronto para uma vida pacata tomando banho de sol e fazendo entregas em um paraíso tropical!",
+      "summaryPtBr": "Yoku chegou em Mokumana e está pronto para uma vida pacata tomando banho de sol e fazendo entregas em um paraíso tropical!",
+      "summaryEnUs": "Use a unique blend of pinball mechanics, platforming and open world exploration to unlock the secrets of  Mokumana Island, help the locals, awaken ancient deities and much more in this amazing new tropical adventure!",
       "packageVersion": "1.0.2",
       "contentTypes": [
         "translation"
@@ -5242,17 +5245,14 @@
       },
       "featured": false,
       "variants": [],
-      "summary": "",
       "tags": [],
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d2b95883c4bf5ec3b825230287a23d9dc33c3eb37d7e9b1dc79914b642d0d780.jpg",
       "installTarget": "",
-      "intro": "Yoku chegou em Mokumana e está pronto para uma vida pacata tomando banho de sol e fazendo entregas em um paraíso tropical!",
-      "summaryPtBr": "",
-      "summaryEnUs": "",
+      "intro": "Conheça Yoku, o carteiro baixinho protagonista de Yoku's Island Express!",
       "assetType": "translation-package",
       "assetId": "501d0d5bc09278b0212e9e6610318abc"
     }
   ],
-  "thumbPackSha256": "sha256:78dbbdc378368c0a6e9aaece17dd348f672300eecd53d13c5ab12c5b0fd6af1f",
+  "thumbPackSha256": "sha256:4a89ff0eb0a8b2572dff52ef41f541753ef51cf1ec4ae4b85ddf222660d9634f",
   "thumbPackSize": 4237698
 }
