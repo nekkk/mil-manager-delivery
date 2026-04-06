@@ -3,7 +3,7 @@
   "channel": "stable",
   "schemaVersion": "1.0",
   "catalogRevision": "2026.03.21.1",
-  "generatedAt": "2026-04-06T01:01:56Z",
+  "generatedAt": "2026-04-06T01:12:46Z",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
   "thumbPackRevision": "2026.03.21.1",
   "thumbPackAssetId": "3886943c00c0f670dd7c500004e92550",
@@ -218,10 +218,10 @@
       "titleId": "01008810231CA000",
       "name": "and Roger",
       "introPtBr": "Descubra and Roger, uma experiência narrativa e de quebra-cabeças profunda e comovente.",
-      "introEnUs": "Discover Roger, a deep and moving narrative and puzzle experience.",
-      "summary": "Este jogo indie tece uma história tocante sobre família e memória, com reviravoltas surpreendentes. Sua arte minimalista em pastel e trilha sonora encantadora criam uma atmosfera única. Cada minigame transmite a narrativa de forma impactante.\n\nFunciona apenas na versão 1.0.1",
-      "summaryPtBr": "Este jogo indie tece uma história tocante sobre família e memória, com reviravoltas surpreendentes. Sua arte minimalista em pastel e trilha sonora encantadora criam uma atmosfera única. Cada minigame transmite a narrativa de forma impactante.\n\nFunciona apenas na versão 1.0.1",
-      "summaryEnUs": "This indie game weaves a touching story about family and memory, with surprising twists. Its minimalist pastel art and enchanting soundtrack create a unique atmosphere. Each minigame conveys the narrative in a powerful way.\n\nExclusive to 1.0.1 version only.",
+      "introEnUs": "Discover and Roger, a deep and moving narrative and puzzle experience.",
+      "summary": "Este jogo indie tece uma história tocante sobre família e memória, com reviravoltas surpreendentes. Sua arte minimalista em pastel e trilha sonora encantadora criam uma atmosfera única. Cada minigame transmite a narrativa de forma impactante.",
+      "summaryPtBr": "Este jogo indie tece uma história tocante sobre família e memória, com reviravoltas surpreendentes. Sua arte minimalista em pastel e trilha sonora encantadora criam uma atmosfera única. Cada minigame transmite a narrativa de forma impactante.",
+      "summaryEnUs": "This indie game weaves a touching story about family and memory, with surprising twists. Its minimalist pastel art and enchanting soundtrack create a unique atmosphere. Each minigame conveys the narrative in a powerful way.",
       "packageVersion": "1.0.1",
       "contentTypes": [
         "translation"
@@ -251,11 +251,11 @@
       "section": "translations",
       "titleId": "010070F0233D2000",
       "name": "Ashwood Valley",
-      "introPtBr": "Ashwood Valley, um feitiço transformou seu irmão em um gatinho. Restaure uma cabana em ruínas, cultive safras, cuide de criaturas excêntricas e desvende segredos mágicos para quebrar a maldição. Explore o vale em pixel art, resolva quebra-cabeças e interaja com habitantes peculiares.",
-      "introEnUs": "Ashwood Valley: A spell has turned your brother into a kitten. Restore a dilapidated cabin, grow crops, care for quirky creatures, and uncover magical secrets to break the curse. Explore the valley in pixel art, solve puzzles, and interact with peculiar inhabitants.",
-      "summary": "Ashwood Valley, um feitiço transformou seu irmão em um gatinho. Restaure uma cabana em ruínas, cultive safras, cuide de criaturas excêntricas e desvende segredos mágicos para quebrar a maldição. Explore o vale em pixel art, resolva quebra-cabeças e interaja com habitantes peculiares.",
-      "summaryPtBr": "Ashwood Valley, um feitiço transformou seu irmão em um gatinho. Restaure uma cabana em ruínas, cultive safras, cuide de criaturas excêntricas e desvende segredos mágicos para quebrar a maldição. Explore o vale em pixel art, resolva quebra-cabeças e interaja com habitantes peculiares.",
-      "summaryEnUs": "Ashwood Valley: A spell has turned your brother into a kitten. Restore a dilapidated cabin, grow crops, care for quirky creatures, and uncover magical secrets to break the curse. Explore the valley in pixel art, solve puzzles, and interact with peculiar inhabitants.",
+      "introPtBr": "Restaure uma cabana em ruínas, cultive safras, cuide de criaturas excêntricas e desvende segredos mágicos para quebrar a maldição.",
+      "introEnUs": "Restore a dilapidated cabin, grow crops, care for quirky creatures, and uncover magical secrets to break the curse.",
+      "summary": "Ashwood Valley, um feitiço transformou seu irmão em um gatinho. Explore o vale em pixel art, resolva quebra-cabeças e interaja com habitantes peculiares.",
+      "summaryPtBr": "Ashwood Valley, um feitiço transformou seu irmão em um gatinho. Explore o vale em pixel art, resolva quebra-cabeças e interaja com habitantes peculiares.",
+      "summaryEnUs": "Ashwood Valley: A spell has turned your brother into a kitten. Explore the valley in pixel art, solve puzzles, and interact with peculiar inhabitants.",
       "packageVersion": "1.0.2",
       "contentTypes": [
         "translation"
@@ -273,7 +273,7 @@
       "tags": [],
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3de9323f360ee8f4d86ce5bc6d206de34af72517b1af28823a6219da2011da7d.jpg",
       "installTarget": "",
-      "intro": "Ashwood Valley, um feitiço transformou seu irmão em um gatinho. Restaure uma cabana em ruínas, cultive safras, cuide de criaturas excêntricas e desvende segredos mágicos para quebrar a maldição. Explore o vale em pixel art, resolva quebra-cabeças e interaja com habitantes peculiares.",
+      "intro": "Restaure uma cabana em ruínas, cultive safras, cuide de criaturas excêntricas e desvende segredos mágicos para quebrar a maldição.",
       "assetType": "translation-package",
       "assetId": "f11a1d29a9cb09861a54b62f36100e60"
     },
@@ -348,11 +348,11 @@
       "section": "translations",
       "titleId": "0100E6401D1D0000",
       "name": "BANCHOU TACTICS",
-      "introPtBr": "é um RPG tático inspirado em jogos clássicos de estratégia. Comande um grupo de delinquentes escolares em batalhas por turnos em cenários urbanos. Cada personagem tem habilidades únicas e árvores de evolução. A história, cheia de rivalidades e reviravoltas, se passa na cidade fictícia de Kawanakajima. Arte em pixel art, sistema de combate profundo e múltiplos finais para descobrir.",
-      "introEnUs": "Kawanakajima is a tactical RPG inspired by classic strategy games. Command a group of school delinquents in turn-based battles in urban settings. Each character has unique abilities and skill trees. The story, full of rivalries and plot twists, takes place in the fictional city of Kawanakajima. Pixel art, deep combat system, and multiple endings to discover.",
-      "summary": "Um RPG tático inspirado em jogos clássicos de estratégia. Comande um grupo de delinquentes escolares em batalhas por turnos em cenários urbanos. Cada personagem tem habilidades únicas e árvores de evolução. A história, cheia de rivalidades e reviravoltas, se passa na cidade fictícia de Kawanakajima. Arte em pixel art, sistema de combate profundo e múltiplos finais para descobrir.",
-      "summaryPtBr": "Um RPG tático inspirado em jogos clássicos de estratégia. Comande um grupo de delinquentes escolares em batalhas por turnos em cenários urbanos. Cada personagem tem habilidades únicas e árvores de evolução. A história, cheia de rivalidades e reviravoltas, se passa na cidade fictícia de Kawanakajima. Arte em pixel art, sistema de combate profundo e múltiplos finais para descobrir.",
-      "summaryEnUs": "A tactical RPG inspired by classic strategy games. Command a group of school delinquents in turn-based battles in urban settings. Each character has unique abilities and skill trees. The story, full of rivalries and plot twists, takes place in the fictional city of Kawanakajima. Pixel art, deep combat system, and multiple endings to discover.",
+      "introPtBr": "Banchou Tactics é um RPG tático inspirado em jogos clássicos de estratégia.",
+      "introEnUs": "Banchou Tactics is a tactical RPG inspired by classic strategy games.",
+      "summary": "Comande um grupo de delinquentes escolares em batalhas por turnos em cenários urbanos. Cada personagem tem habilidades únicas e árvores de evolução. A história, cheia de rivalidades e reviravoltas, se passa na cidade fictícia de Kawanakajima. Arte em pixel art, sistema de combate profundo e múltiplos finais para descobrir.",
+      "summaryPtBr": "Comande um grupo de delinquentes escolares em batalhas por turnos em cenários urbanos. Cada personagem tem habilidades únicas e árvores de evolução. A história, cheia de rivalidades e reviravoltas, se passa na cidade fictícia de Kawanakajima. Arte em pixel art, sistema de combate profundo e múltiplos finais para descobrir.",
+      "summaryEnUs": "Command a group of school delinquents in turn-based battles in urban settings. Each character has unique abilities and skill trees. The story, full of rivalries and plot twists, takes place in the fictional city of Kawanakajima. Pixel art, deep combat system, and multiple endings to discover.",
       "packageVersion": "1.00",
       "contentTypes": [
         "translation"
@@ -370,7 +370,7 @@
       "tags": [],
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b9ce8a25b8d73be4fa73db96ca18bb8c98d5d0ee3928a1729a24e18a413fc068.jpg",
       "installTarget": "",
-      "intro": "é um RPG tático inspirado em jogos clássicos de estratégia. Comande um grupo de delinquentes escolares em batalhas por turnos em cenários urbanos. Cada personagem tem habilidades únicas e árvores de evolução. A história, cheia de rivalidades e reviravoltas, se passa na cidade fictícia de Kawanakajima. Arte em pixel art, sistema de combate profundo e múltiplos finais para descobrir.",
+      "intro": "Banchou Tactics é um RPG tático inspirado em jogos clássicos de estratégia.",
       "assetType": "translation-package",
       "assetId": "3ac667074c2788dec925b8bbc6ce1537"
     },
@@ -382,11 +382,11 @@
       "section": "translations",
       "titleId": "0100B7801693A000",
       "name": "Behind the Frame: The Finest Scenery",
-      "introPtBr": "uma aventura narrativa relaxante inspirada em filmes do Studio Ghibli. Você assume o papel de uma pintora em busca de concluir sua obra-prima. Resolva quebra-cabeças, pinte quadros e descubra memórias escondidas em um apartamento aconchegante. Com arte em estilo animado à mão, trilha sonora suave e uma história emocionante sobre arte e passado. Uma experiência curta e inesquecível.",
-      "introEnUs": "A relaxing narrative adventure inspired by Studio Ghibli films. You take on the role of a painter seeking to complete her masterpiece. Solve puzzles, paint pictures, and uncover hidden memories in a cozy apartment. Featuring hand-drawn animated art, a soothing soundtrack, and a heartwarming story about art and the past, this is a short and unforgettable experience.",
-      "summary": "Uma aventura narrativa relaxante inspirada em filmes do Studio Ghibli. Você assume o papel de uma pintora em busca de concluir sua obra-prima. Resolva quebra-cabeças, pinte quadros e descubra memórias escondidas em um apartamento aconchegante. Com arte em estilo animado à mão, trilha sonora suave e uma história emocionante sobre arte e passado. Uma experiência curta e inesquecível.",
-      "summaryPtBr": "Uma aventura narrativa relaxante inspirada em filmes do Studio Ghibli. Você assume o papel de uma pintora em busca de concluir sua obra-prima. Resolva quebra-cabeças, pinte quadros e descubra memórias escondidas em um apartamento aconchegante. Com arte em estilo animado à mão, trilha sonora suave e uma história emocionante sobre arte e passado. Uma experiência curta e inesquecível.",
-      "summaryEnUs": "A relaxing narrative adventure inspired by Studio Ghibli films. You take on the role of a painter seeking to complete her masterpiece. Solve puzzles, paint pictures, and uncover hidden memories in a cozy apartment. Featuring hand-drawn animated art, a soothing soundtrack, and a heartwarming story about art and the past, this is a short and unforgettable experience.",
+      "introPtBr": "Uma aventura narrativa relaxante inspirada em filmes do Studio Ghibli.",
+      "introEnUs": "A relaxing narrative adventure inspired by Studio Ghibli films.",
+      "summary": "Você assume o papel de uma pintora em busca de concluir sua obra-prima. Resolva quebra-cabeças, pinte quadros e descubra memórias escondidas em um apartamento aconchegante. Com arte em estilo animado à mão, trilha sonora suave e uma história emocionante sobre arte e passado. Uma experiência curta e inesquecível.",
+      "summaryPtBr": "Você assume o papel de uma pintora em busca de concluir sua obra-prima. Resolva quebra-cabeças, pinte quadros e descubra memórias escondidas em um apartamento aconchegante. Com arte em estilo animado à mão, trilha sonora suave e uma história emocionante sobre arte e passado. Uma experiência curta e inesquecível.",
+      "summaryEnUs": "You take on the role of a painter seeking to complete her masterpiece. Solve puzzles, paint pictures, and uncover hidden memories in a cozy apartment. Featuring hand-drawn animated art, a soothing soundtrack, and a heartwarming story about art and the past, this is a short and unforgettable experience.",
       "packageVersion": "2.0.5",
       "contentTypes": [
         "translation"
@@ -404,7 +404,7 @@
       "tags": [],
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b8bd632bad71d88cfbc5008fd1f5c2a1f8ae1b16d30a65597ddb3cb9475708f.jpg",
       "installTarget": "",
-      "intro": "uma aventura narrativa relaxante inspirada em filmes do Studio Ghibli. Você assume o papel de uma pintora em busca de concluir sua obra-prima. Resolva quebra-cabeças, pinte quadros e descubra memórias escondidas em um apartamento aconchegante. Com arte em estilo animado à mão, trilha sonora suave e uma história emocionante sobre arte e passado. Uma experiência curta e inesquecível.",
+      "intro": "Uma aventura narrativa relaxante inspirada em filmes do Studio Ghibli.",
       "assetType": "translation-package",
       "assetId": "7713c983bd84c7156b44ddf14fc3a2d4"
     },
@@ -416,8 +416,8 @@
       "section": "translations",
       "titleId": "01006E1004404000",
       "name": "Ben 10 (2017)",
-      "introPtBr": "traz o herói transformável em uma aventura de ação e plataforma. Jogue como Ben e seus aliens clássicos como Quatro Braços, XLR8 e Massa Cinzenta. Enfrente vilões da série, resolva quebra-cabeças simples e explore fases lineares. Com visuais inspirados no desenho de 2017, combate acessível para crianças e modo cooperativo para dois jogadores. Diversão rápida e direta para fãs pequenos",
-      "introEnUs": "This game features the transformable hero in an action-platforming adventure. Play as Ben and his classic aliens like Four Arms, XLR8, and Grey Matter. Face villains from the series, solve simple puzzles, and explore linear levels. With visuals inspired by the 2017 cartoon, accessible combat for kids, and a two-player cooperative mode. Quick and straightforward fun for young fans.",
+      "introPtBr": "Comande o seu herói favorito!",
+      "introEnUs": "Command your favorite hero!",
       "summary": "Este jogo traz o herói transformável em uma aventura de ação e plataforma. Jogue como Ben e seus aliens clássicos como Quatro Braços, XLR8 e Massa Cinzenta. Enfrente vilões da série, resolva quebra-cabeças simples e explore fases lineares. Com visuais inspirados no desenho de 2017, combate acessível para crianças e modo cooperativo para dois jogadores. Diversão rápida e direta para os pequenos fãs.",
       "summaryPtBr": "Este jogo traz o herói transformável em uma aventura de ação e plataforma. Jogue como Ben e seus aliens clássicos como Quatro Braços, XLR8 e Massa Cinzenta. Enfrente vilões da série, resolva quebra-cabeças simples e explore fases lineares. Com visuais inspirados no desenho de 2017, combate acessível para crianças e modo cooperativo para dois jogadores. Diversão rápida e direta para os pequenos fãs.",
       "summaryEnUs": "This game features the transformable hero in an action-platforming adventure. Play as Ben and his classic aliens like Four Arms, XLR8, and Grey Matter. Face villains from the series, solve simple puzzles, and explore linear levels. With visuals inspired by the 2017 cartoon, accessible combat for kids, and a two-player cooperative mode. Quick and straightforward fun for young fans.",
@@ -432,7 +432,7 @@
       "tags": [],
       "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b51fca34ed24baad267b9fb767b17f6d7f2fb6732cb4d86b4d082c9136748d6.jpg",
       "installTarget": "",
-      "intro": "traz o herói transformável em uma aventura de ação e plataforma. Jogue como Ben e seus aliens clássicos como Quatro Braços, XLR8 e Massa Cinzenta. Enfrente vilões da série, resolva quebra-cabeças simples e explore fases lineares. Com visuais inspirados no desenho de 2017, combate acessível para crianças e modo cooperativo para dois jogadores. Diversão rápida e direta para fãs pequenos",
+      "intro": "Comande o seu herói favorito!",
       "compatibility": {},
       "assetType": "translation-package",
       "assetId": "f0db0568182b1275f5e5608a97b53210"
@@ -533,6 +533,78 @@
       "intro": "Um jogo de ação e plataforma com estilo western e personagens insetoides.",
       "assetType": "translation-package",
       "assetId": "6c4dfd553e4bdb5e485a461ad5e90455"
+    },
+    {
+      "author": "MIL",
+      "detailsUrl": "https://www.miltraducoes.com/post/tradu%C3%A7%C3%A3o-pt-br-do-jogo-bo-path-of-the-teal-lotus",
+      "language": "pt-BR",
+      "id": "bo-path-of-teal-lotus-ptbr",
+      "section": "translations",
+      "titleId": "0100E0601DC2A000",
+      "name": "Bo: Path of the Teal Lotus",
+      "introPtBr": "Uma experiência visual deslumbrante e atmosférica.",
+      "introEnUs": "A visually stunning and atmospheric experience.",
+      "summary": "Metroidvania com arte em aquarela inspirada no folclore japonês. Explore um mundo mágico, salte, lute contra criaturas e resolva quebra-cabeças.",
+      "summaryPtBr": "Metroidvania com arte em aquarela inspirada no folclore japonês. Explore um mundo mágico, salte, lute contra criaturas e resolva quebra-cabeças.",
+      "summaryEnUs": "Metroidvania with watercolor art inspired by Japanese folklore. Explore a magical world, jump, fight creatures, and solve puzzles.",
+      "contentTypes": [
+        "translation"
+      ],
+      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/d6ace1ebe14550d2dc4d7dd58672fe396775df354490a851686a4b28b7915975.jpg",
+      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/bo-path-of-teal-lotus-ptbr.png",
+      "compatibility": {
+        "minGameVersion": "1.0.0",
+        "maxGameVersion": "1.0.2"
+      },
+      "variants": [
+        {
+          "id": "game-1.0.0",
+          "label": "1.0.0",
+          "assetId": "816445401f731e2fe662826cd655a464",
+          "assetType": "package-variant",
+          "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaCyJoXSIxA2dVAVkDAnwlDwkuDTYTRyoSDSwXPyMVLC0Cd14pKlJyGl03ACtLKg8GF0oWIw",
+          "packageVersion": "1.0.0",
+          "compatibility": {
+            "exactGameVersions": [
+              "1.0.0"
+            ]
+          }
+        },
+        {
+          "id": "game-1.0.1",
+          "label": "1.0.1",
+          "assetId": "2ac359b086d5f0628adca7a161980584",
+          "assetType": "package-variant",
+          "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaJTpJFTI6XWdVBTg7Ph4pGz8GKiIFSEZSCiwkUgoYQigpQwpMMT5AF0guIVR9PhRDLyQBPw",
+          "packageVersion": "1.0.1",
+          "compatibility": {
+            "exactGameVersions": [
+              "1.0.1"
+            ]
+          }
+        },
+        {
+          "id": "game-1.0.2",
+          "label": "1.0.2",
+          "assetId": "dc88da0fb75cb8c64a8656c2490a79fa",
+          "assetType": "package-variant",
+          "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaKjYcFyQiAnxVdg8EBxgEBl8CDzcQdD4wECgjLylqGRwzZlhUMTRqBVMKDFxgKCcqOAYUBQ",
+          "packageVersion": "1.0.2",
+          "compatibility": {
+            "exactGameVersions": [
+              "1.0.2"
+            ]
+          }
+        }
+      ],
+      "featured": false,
+      "tags": [],
+      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f2c6726ae1b79b0e63e602db512c2cbeb5375bac102182ebfc8e10b388af6b05.jpg",
+      "installTarget": "",
+      "intro": "Uma experiência visual deslumbrante e atmosférica.",
+      "assetType": "translation-package",
+      "assetId": "b0b86ee5abe2adb421277ac32f230972",
+      "downloadUrl": ""
     },
     {
       "author": "M.I.L.",
@@ -657,78 +729,6 @@
       "compatibility": {},
       "assetType": "translation-package",
       "assetId": "d17de7de5c23ac847164bc9f9dc84cc4"
-    },
-    {
-      "author": "MIL",
-      "detailsUrl": "https://www.miltraducoes.com/post/tradu%C3%A7%C3%A3o-pt-br-do-jogo-bo-path-of-the-teal-lotus",
-      "language": "pt-BR",
-      "id": "bo-path-of-teal-lotus-ptbr",
-      "section": "translations",
-      "titleId": "0100E0601DC2A000",
-      "name": "Bō: Path of the Teal Lotus",
-      "introPtBr": "Metroidvania com arte em aquarela inspirada no folclore japonês. Explore um mundo mágico, salte, lute contra criaturas e resolva quebra-cabeças em uma experiência visual deslumbrante e atmosférica.",
-      "introEnUs": "Metroidvania with watercolor art inspired by Japanese folklore. Explore a magical world, jump, fight creatures, and solve puzzles in a visually stunning and atmospheric experience.",
-      "summary": "Metroidvania com arte em aquarela inspirada no folclore japonês. Explore um mundo mágico, salte, lute contra criaturas e resolva quebra-cabeças em uma experiência visual deslumbrante e atmosférica.",
-      "summaryPtBr": "Metroidvania com arte em aquarela inspirada no folclore japonês. Explore um mundo mágico, salte, lute contra criaturas e resolva quebra-cabeças em uma experiência visual deslumbrante e atmosférica.",
-      "summaryEnUs": "Metroidvania with watercolor art inspired by Japanese folklore. Explore a magical world, jump, fight creatures, and solve puzzles in a visually stunning and atmospheric experience.",
-      "contentTypes": [
-        "translation"
-      ],
-      "coverUrl": "https://img-eshop.cdn.nintendo.net/i/d6ace1ebe14550d2dc4d7dd58672fe396775df354490a851686a4b28b7915975.jpg",
-      "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/bo-path-of-teal-lotus-ptbr.png",
-      "compatibility": {
-        "minGameVersion": "1.0.0",
-        "maxGameVersion": "1.0.2"
-      },
-      "variants": [
-        {
-          "id": "game-1.0.0",
-          "label": "1.0.0",
-          "assetId": "816445401f731e2fe662826cd655a464",
-          "assetType": "package-variant",
-          "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaCyJoXSIxA2dVAVkDAnwlDwkuDTYTRyoSDSwXPyMVLC0Cd14pKlJyGl03ACtLKg8GF0oWIw",
-          "packageVersion": "1.0.0",
-          "compatibility": {
-            "exactGameVersions": [
-              "1.0.0"
-            ]
-          }
-        },
-        {
-          "id": "game-1.0.1",
-          "label": "1.0.1",
-          "assetId": "2ac359b086d5f0628adca7a161980584",
-          "assetType": "package-variant",
-          "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaJTpJFTI6XWdVBTg7Ph4pGz8GKiIFSEZSCiwkUgoYQigpQwpMMT5AF0guIVR9PhRDLyQBPw",
-          "packageVersion": "1.0.1",
-          "compatibility": {
-            "exactGameVersions": [
-              "1.0.1"
-            ]
-          }
-        },
-        {
-          "id": "game-1.0.2",
-          "label": "1.0.2",
-          "assetId": "dc88da0fb75cb8c64a8656c2490a79fa",
-          "assetType": "package-variant",
-          "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaKjYcFyQiAnxVdg8EBxgEBl8CDzcQdD4wECgjLylqGRwzZlhUMTRqBVMKDFxgKCcqOAYUBQ",
-          "packageVersion": "1.0.2",
-          "compatibility": {
-            "exactGameVersions": [
-              "1.0.2"
-            ]
-          }
-        }
-      ],
-      "featured": false,
-      "tags": [],
-      "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f2c6726ae1b79b0e63e602db512c2cbeb5375bac102182ebfc8e10b388af6b05.jpg",
-      "installTarget": "",
-      "intro": "Metroidvania com arte em aquarela inspirada no folclore japonês. Explore um mundo mágico, salte, lute contra criaturas e resolva quebra-cabeças em uma experiência visual deslumbrante e atmosférica.",
-      "assetType": "translation-package",
-      "assetId": "b0b86ee5abe2adb421277ac32f230972",
-      "downloadUrl": ""
     },
     {
       "author": "MIL",
@@ -5253,6 +5253,6 @@
       "assetId": "501d0d5bc09278b0212e9e6610318abc"
     }
   ],
-  "thumbPackSha256": "sha256:0a5d3a0771dd719521f064949ffd0999879b6d9e1710d46447d66e821b2fe724",
+  "thumbPackSha256": "sha256:70ab9819e8c6d2c25cd37e6853ec973fc2435eca2383c0d8478e1f0430d16b05",
   "thumbPackSize": 4237698
 }
