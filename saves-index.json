@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-04-04T06:11:07Z",
+  "generatedAt": "2026-04-07T05:57:40Z",
   "generator": "MILSaveGamesAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -1158,7 +1158,7 @@
     },
     {
       "titleId": "0100152000022000",
-      "name": "Mario Kart™ 8 Deluxe",
+      "name": "Mario Kart 8 Deluxe - Omega Mod",
       "categories": [
         "unlocked"
       ],
@@ -1176,9 +1176,9 @@
           "assetId": "27a7e04ec010d4b88ff393da7465925c",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/27/a7/27a7e04ec010d4b88ff393da7465925c.zip",
-          "contentHash": "sha256:ad34852a58a8eb787682ddb57b102c26b07f45124e84e34ddfaaf17ba178c18b",
-          "sha256": "sha256:ad34852a58a8eb787682ddb57b102c26b07f45124e84e34ddfaaf17ba178c18b",
-          "size": 12371459,
+          "contentHash": "sha256:ee8caf18ead09546d18aff4068efb3cdb97a544d849fb72ab30375fafccc6f28",
+          "sha256": "sha256:ee8caf18ead09546d18aff4068efb3cdb97a544d849fb72ab30375fafccc6f28",
+          "size": 12372431,
           "origins": [
             "viren070"
           ]
@@ -1196,9 +1196,9 @@
           "assetId": "ac3be516d8184cb4116bb51bbdacd6e3",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/ac/3b/ac3be516d8184cb4116bb51bbdacd6e3.zip",
-          "contentHash": "sha256:a0dee14295c24ffec68d2ed24380e261567a5cdc1d930cf61ece99799737b1a0",
-          "sha256": "sha256:a0dee14295c24ffec68d2ed24380e261567a5cdc1d930cf61ece99799737b1a0",
-          "size": 15315521,
+          "contentHash": "sha256:03b3667b4775bcb8f0a13370855b721c992ed4250603eeb0be6f0834a531b24f",
+          "sha256": "sha256:03b3667b4775bcb8f0a13370855b721c992ed4250603eeb0be6f0834a531b24f",
+          "size": 15316529,
           "origins": [
             "viren070"
           ]
@@ -1216,9 +1216,9 @@
           "assetId": "6a783ac22f94e30ad8e4ecd0cd082af1",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/6a/78/6a783ac22f94e30ad8e4ecd0cd082af1.zip",
-          "contentHash": "sha256:63616d2a21913b939a8aa44cae0174553aab0b835f00e0dad47ad1170e3f638a",
-          "sha256": "sha256:63616d2a21913b939a8aa44cae0174553aab0b835f00e0dad47ad1170e3f638a",
-          "size": 6290312,
+          "contentHash": "sha256:e8cd6ad855252a624ea068e21c535ef3acc08a282d56ea3f7afcf27ee231fbae",
+          "sha256": "sha256:e8cd6ad855252a624ea068e21c535ef3acc08a282d56ea3f7afcf27ee231fbae",
+          "size": 6291248,
           "origins": [
             "viren070"
           ]
@@ -7986,7 +7986,7 @@
     },
     {
       "titleId": "01006A800016E000",
-      "name": "Super Smash Bros. Ultimate - Cheats",
+      "name": "Super Smash Bros.™ Ultimate",
       "categories": [
         "event",
         "other"
@@ -8005,9 +8005,9 @@
           "assetId": "3194ef6dc08e61b734c2cbe9a8c24f31",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/31/94/3194ef6dc08e61b734c2cbe9a8c24f31.zip",
-          "contentHash": "sha256:a0aa52a408bc1a5d28df53f0798d1cea82f4d93c92299a1c0707a22f9139ed90",
-          "sha256": "sha256:a0aa52a408bc1a5d28df53f0798d1cea82f4d93c92299a1c0707a22f9139ed90",
-          "size": 93462412,
+          "contentHash": "sha256:7ba513cb2929b79600c44600c4d1a61ffd66572ee84330a56c064636dd68be35",
+          "sha256": "sha256:7ba513cb2929b79600c44600c4d1a61ffd66572ee84330a56c064636dd68be35",
+          "size": 93462400,
           "origins": [
             "ghostlydark"
           ]
@@ -8025,9 +8025,9 @@
           "assetId": "36fd0476b563eb5e476f3ae923ba3b43",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/36/fd/36fd0476b563eb5e476f3ae923ba3b43.zip",
-          "contentHash": "sha256:786377ea1640a93f24cec3cf03d8bdd84a3a0fc63b5170e95b6b4e1ff4fca6e1",
-          "sha256": "sha256:786377ea1640a93f24cec3cf03d8bdd84a3a0fc63b5170e95b6b4e1ff4fca6e1",
-          "size": 14525627,
+          "contentHash": "sha256:4f5e07e805daebf298925843a1a1cb2170ce95d555ab8d04521afa75be801ca0",
+          "sha256": "sha256:4f5e07e805daebf298925843a1a1cb2170ce95d555ab8d04521afa75be801ca0",
+          "size": 14524571,
           "origins": [
             "viren070"
           ]
@@ -8045,9 +8045,9 @@
           "assetId": "171cd33f116917d2862f1068d36999e7",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/17/1c/171cd33f116917d2862f1068d36999e7.zip",
-          "contentHash": "sha256:750874a90f9bed2973e06366a368e2c52368862614d203d2fd7afb3abc812a67",
-          "sha256": "sha256:750874a90f9bed2973e06366a368e2c52368862614d203d2fd7afb3abc812a67",
-          "size": 13107494,
+          "contentHash": "sha256:3ff0278532db67f973ca88f4707c3f873e0523c0b3c9c0341558f2ec4d40fa7c",
+          "sha256": "sha256:3ff0278532db67f973ca88f4707c3f873e0523c0b3c9c0341558f2ec4d40fa7c",
+          "size": 13106594,
           "origins": [
             "viren070"
           ]
@@ -8065,9 +8065,9 @@
           "assetId": "81d4d12cc0fbb64cdc21537e357b7862",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/81/d4/81d4d12cc0fbb64cdc21537e357b7862.zip",
-          "contentHash": "sha256:ec01b47d01cb7251a2331630f00dfd3cc9a7b15dc654d2790ee429aa7d3268c4",
-          "sha256": "sha256:ec01b47d01cb7251a2331630f00dfd3cc9a7b15dc654d2790ee429aa7d3268c4",
-          "size": 14556750,
+          "contentHash": "sha256:b15a469e43018e0ff84deb6c18d9cf14f89531fb89f4b128c83f88367c7f09fa",
+          "sha256": "sha256:b15a469e43018e0ff84deb6c18d9cf14f89531fb89f4b128c83f88367c7f09fa",
+          "size": 14555658,
           "origins": [
             "viren070"
           ]
@@ -8085,9 +8085,9 @@
           "assetId": "8fdcf81318d7aad1d6bde6a1b74864c2",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/8f/dc/8fdcf81318d7aad1d6bde6a1b74864c2.zip",
-          "contentHash": "sha256:849637faae55192d9ce58d99a6b029cd595095738c75f430a323776df9168d3c",
-          "sha256": "sha256:849637faae55192d9ce58d99a6b029cd595095738c75f430a323776df9168d3c",
-          "size": 17483607,
+          "contentHash": "sha256:b484715469498395425035e0cc2bef828557b50aee5e21943b81254989e69007",
+          "sha256": "sha256:b484715469498395425035e0cc2bef828557b50aee5e21943b81254989e69007",
+          "size": 17482299,
           "origins": [
             "viren070"
           ]
@@ -8105,9 +8105,9 @@
           "assetId": "9f2fcb6b4293fc230b8530ba89b242e4",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/9f/2f/9f2fcb6b4293fc230b8530ba89b242e4.zip",
-          "contentHash": "sha256:7e5e13a1edf1418660df15f3d88d53288974be11500eb00df49d04b8c7e5e123",
-          "sha256": "sha256:7e5e13a1edf1418660df15f3d88d53288974be11500eb00df49d04b8c7e5e123",
-          "size": 12163064,
+          "contentHash": "sha256:0be9c470246466d43d846abe24a24bf70e2231825f0f170dac1b957ef97ec5f2",
+          "sha256": "sha256:0be9c470246466d43d846abe24a24bf70e2231825f0f170dac1b957ef97ec5f2",
+          "size": 12161936,
           "origins": [
             "viren070"
           ]
@@ -8125,9 +8125,9 @@
           "assetId": "90fc02c5ad9e372ab0fe2de51ebfc424",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/90/fc/90fc02c5ad9e372ab0fe2de51ebfc424.zip",
-          "contentHash": "sha256:1a989b0f34e41bbb80b2e944d6f1994d3a33756806a0c51e3ce6827569b30612",
-          "sha256": "sha256:1a989b0f34e41bbb80b2e944d6f1994d3a33756806a0c51e3ce6827569b30612",
-          "size": 14785435,
+          "contentHash": "sha256:31bb6a6ffa7ab206c09a5f39d6867f9159c2a5e0ac99a3f894eba8bf885fecbb",
+          "sha256": "sha256:31bb6a6ffa7ab206c09a5f39d6867f9159c2a5e0ac99a3f894eba8bf885fecbb",
+          "size": 14784259,
           "origins": [
             "viren070"
           ]
@@ -8145,9 +8145,9 @@
           "assetId": "6a9ba031e0cf31e3688ec590a4a8c1e2",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/6a/9b/6a9ba031e0cf31e3688ec590a4a8c1e2.zip",
-          "contentHash": "sha256:22b1d5ad8999474e5e24a935a6ad1f44b2e67849d71678198939f2a856038060",
-          "sha256": "sha256:22b1d5ad8999474e5e24a935a6ad1f44b2e67849d71678198939f2a856038060",
-          "size": 14785435,
+          "contentHash": "sha256:7f416963f22d1f8e001e6a26b9df99b28eba4ef11ad42aca139afe283296cf1e",
+          "sha256": "sha256:7f416963f22d1f8e001e6a26b9df99b28eba4ef11ad42aca139afe283296cf1e",
+          "size": 14784259,
           "origins": [
             "viren070"
           ]
@@ -8165,9 +8165,9 @@
           "assetId": "8a84d683b404939c0482020052dd98b6",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/8a/84/8a84d683b404939c0482020052dd98b6.zip",
-          "contentHash": "sha256:2954fcb5da22e0f96e8c755409cb6d5c9e6dca4ff387896441f32bf4beff2854",
-          "sha256": "sha256:2954fcb5da22e0f96e8c755409cb6d5c9e6dca4ff387896441f32bf4beff2854",
-          "size": 13138782,
+          "contentHash": "sha256:fc10557f1d9b1e555227338c3e4025c271fd69d7ed88cbd1c5824d2061ea1471",
+          "sha256": "sha256:fc10557f1d9b1e555227338c3e4025c271fd69d7ed88cbd1c5824d2061ea1471",
+          "size": 13137846,
           "origins": [
             "viren070"
           ]
@@ -8508,7 +8508,7 @@
     },
     {
       "titleId": "01006F8002326000",
-      "name": "Animal Crossing: New Horizons - Save Pack",
+      "name": "Animal Crossing™: New Horizons – Nintendo Switch™ 2 Edition",
       "categories": [
         "event",
         "other"
@@ -8527,9 +8527,9 @@
           "assetId": "4a3385e8ce03d52998e54f573bc6863c",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/4a/33/4a3385e8ce03d52998e54f573bc6863c.zip",
-          "contentHash": "sha256:a59c051954ec5043549e3efb7b2a2cdf5dc06a07eec132463da1ae18f583fed5",
-          "sha256": "sha256:a59c051954ec5043549e3efb7b2a2cdf5dc06a07eec132463da1ae18f583fed5",
-          "size": 6989,
+          "contentHash": "sha256:e38520f565fbe22bcafd1f51adac9875752837fbdfadb67b684e3bc7bc73dbf5",
+          "sha256": "sha256:e38520f565fbe22bcafd1f51adac9875752837fbdfadb67b684e3bc7bc73dbf5",
+          "size": 7709,
           "origins": [
             "viren070"
           ]
@@ -8547,9 +8547,9 @@
           "assetId": "04e43a091f4b73ef7fb35008bc0fd6f0",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/04/e4/04e43a091f4b73ef7fb35008bc0fd6f0.zip",
-          "contentHash": "sha256:bf96018ec4fdb46ab2ffdb8480ae9d6ac422a951bc130895bbeb950222075c0b",
-          "sha256": "sha256:bf96018ec4fdb46ab2ffdb8480ae9d6ac422a951bc130895bbeb950222075c0b",
-          "size": 6536,
+          "contentHash": "sha256:1056b610237ce4a144397fdc8d69c8c2f2ef522265450419e6fd149cdadeef1c",
+          "sha256": "sha256:1056b610237ce4a144397fdc8d69c8c2f2ef522265450419e6fd149cdadeef1c",
+          "size": 7208,
           "origins": [
             "viren070"
           ]
@@ -8567,9 +8567,9 @@
           "assetId": "840deb4507113bf60ff60ade2734668d",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/84/0d/840deb4507113bf60ff60ade2734668d.zip",
-          "contentHash": "sha256:520fe06ae07fd1359f30518c6ccf4594f897fa771138cae8e4e63abdda58f83a",
-          "sha256": "sha256:520fe06ae07fd1359f30518c6ccf4594f897fa771138cae8e4e63abdda58f83a",
-          "size": 24222389,
+          "contentHash": "sha256:421867c9b80661a95a0330277b0cd01ee3bca7244425378db107f9351ec41fc4",
+          "sha256": "sha256:421867c9b80661a95a0330277b0cd01ee3bca7244425378db107f9351ec41fc4",
+          "size": 24222869,
           "origins": [
             "viren070"
           ]
@@ -8587,9 +8587,9 @@
           "assetId": "726e88321a980580cdfb38ca7d059bd5",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/72/6e/726e88321a980580cdfb38ca7d059bd5.zip",
-          "contentHash": "sha256:a8111805ccbf8c4024130c242a5d1d7c8fc172e548b0c6b01715331874884906",
-          "sha256": "sha256:a8111805ccbf8c4024130c242a5d1d7c8fc172e548b0c6b01715331874884906",
-          "size": 24616823,
+          "contentHash": "sha256:16d1da59a82c41ec9db52fa3471b7c61b36e7519ef4810d255462ed34c95f418",
+          "sha256": "sha256:16d1da59a82c41ec9db52fa3471b7c61b36e7519ef4810d255462ed34c95f418",
+          "size": 24617351,
           "origins": [
             "viren070"
           ]
@@ -8607,9 +8607,9 @@
           "assetId": "bfde5120647f08dd546f703b28936b8a",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/bf/de/bfde5120647f08dd546f703b28936b8a.zip",
-          "contentHash": "sha256:c94c87b6d376247a76ed8d6192f1503805baa0bb834e5945441aed3a88de3f35",
-          "sha256": "sha256:c94c87b6d376247a76ed8d6192f1503805baa0bb834e5945441aed3a88de3f35",
-          "size": 24593001,
+          "contentHash": "sha256:fc3dbac45e8049fac241ef029899a138a6f73656a0f6c6d0ca0b7f6c61c64396",
+          "sha256": "sha256:fc3dbac45e8049fac241ef029899a138a6f73656a0f6c6d0ca0b7f6c61c64396",
+          "size": 24593481,
           "origins": [
             "viren070"
           ]
@@ -8627,9 +8627,9 @@
           "assetId": "c12ef74275b12e97253b301c33e32222",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/c1/2e/c12ef74275b12e97253b301c33e32222.zip",
-          "contentHash": "sha256:bfe4d78cf4a2a8d60eba39b8f871ab9220ef0626cfe87c5412a0c87848a98cb7",
-          "sha256": "sha256:bfe4d78cf4a2a8d60eba39b8f871ab9220ef0626cfe87c5412a0c87848a98cb7",
-          "size": 24593401,
+          "contentHash": "sha256:d6c6e33fd4320901cfc0ed8e38f11b58c7b2483ee786fefe6ffce8b6b6770f51",
+          "sha256": "sha256:d6c6e33fd4320901cfc0ed8e38f11b58c7b2483ee786fefe6ffce8b6b6770f51",
+          "size": 24593881,
           "origins": [
             "viren070"
           ]
@@ -8647,9 +8647,9 @@
           "assetId": "f5b0c13c1fcd9c603dfef568ba99ee18",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/f5/b0/f5b0c13c1fcd9c603dfef568ba99ee18.zip",
-          "contentHash": "sha256:f89d536ca5bd6dbb46f600db2e7b196e59f840424c29663427deaf38ddeb20b2",
-          "sha256": "sha256:f89d536ca5bd6dbb46f600db2e7b196e59f840424c29663427deaf38ddeb20b2",
-          "size": 5041,
+          "contentHash": "sha256:d3f1fa8468e8c0b6502f39ef5f88b953b4b08e82263eafc6dc266e8a1e776720",
+          "sha256": "sha256:d3f1fa8468e8c0b6502f39ef5f88b953b4b08e82263eafc6dc266e8a1e776720",
+          "size": 5617,
           "origins": [
             "viren070"
           ]
@@ -8667,9 +8667,9 @@
           "assetId": "39f126c5b50f94f4f7ee8f251fb2d3ef",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/39/f1/39f126c5b50f94f4f7ee8f251fb2d3ef.zip",
-          "contentHash": "sha256:f79639bb4a8498a32b7ecf053778dea501aefe7d0fb317cb4cf50f045ca9788f",
-          "sha256": "sha256:f79639bb4a8498a32b7ecf053778dea501aefe7d0fb317cb4cf50f045ca9788f",
-          "size": 5714,
+          "contentHash": "sha256:bcf5a4c306616e70e235ea3aa56ce89097fc306a84bb4d345f0198b2b1453fbe",
+          "sha256": "sha256:bcf5a4c306616e70e235ea3aa56ce89097fc306a84bb4d345f0198b2b1453fbe",
+          "size": 6338,
           "origins": [
             "viren070"
           ]
@@ -8687,9 +8687,9 @@
           "assetId": "f650df4b18f3bf6b62437fb1f7b6a54e",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/f6/50/f650df4b18f3bf6b62437fb1f7b6a54e.zip",
-          "contentHash": "sha256:622d9fd3f13c918e2c8b2fc8d3f0a408da7a4b826e6f4314acb5be31ca0cabd5",
-          "sha256": "sha256:622d9fd3f13c918e2c8b2fc8d3f0a408da7a4b826e6f4314acb5be31ca0cabd5",
-          "size": 4801,
+          "contentHash": "sha256:abc979754fe821bd6b19271984d57bbfca967beb396f366ff15c7252d2c8cce6",
+          "sha256": "sha256:abc979754fe821bd6b19271984d57bbfca967beb396f366ff15c7252d2c8cce6",
+          "size": 5329,
           "origins": [
             "viren070"
           ]
@@ -8707,9 +8707,9 @@
           "assetId": "c6494c38b61ccaa0ac7fcd6a8e74e534",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/c6/49/c6494c38b61ccaa0ac7fcd6a8e74e534.zip",
-          "contentHash": "sha256:a73b0b5d4b4f2dca3dce224702d1f3ce30588697ebc46fbdb931f494e32e7bff",
-          "sha256": "sha256:a73b0b5d4b4f2dca3dce224702d1f3ce30588697ebc46fbdb931f494e32e7bff",
-          "size": 24592911,
+          "contentHash": "sha256:7d24eb9bbc678f42d5fd164a2b6f650e2e7bdaaf6a74090b416649b65c135a81",
+          "sha256": "sha256:7d24eb9bbc678f42d5fd164a2b6f650e2e7bdaaf6a74090b416649b65c135a81",
+          "size": 24593391,
           "origins": [
             "viren070"
           ]
@@ -8727,9 +8727,9 @@
           "assetId": "abcbbe733330d61d0129ff47514db0e2",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/ab/cb/abcbbe733330d61d0129ff47514db0e2.zip",
-          "contentHash": "sha256:1368e414faccfdd5d8c1dd384c54670b1aef3cf673d9d9250b32a9a844b5527a",
-          "sha256": "sha256:1368e414faccfdd5d8c1dd384c54670b1aef3cf673d9d9250b32a9a844b5527a",
-          "size": 24593311,
+          "contentHash": "sha256:393670b0f3cceeaf718f74278bcf4af2b206c571e16113a3d87bcbee2c81f489",
+          "sha256": "sha256:393670b0f3cceeaf718f74278bcf4af2b206c571e16113a3d87bcbee2c81f489",
+          "size": 24593791,
           "origins": [
             "viren070"
           ]
@@ -12954,7 +12954,7 @@
     },
     {
       "titleId": "010096F00FF22000",
-      "name": "Borderlands: The Handsome Collection",
+      "name": "Borderlands 2: Game of The Year Edition",
       "categories": [
         "starter"
       ],
@@ -12972,9 +12972,9 @@
           "assetId": "7b51fdcba632f8eaec6c91feba70c35b",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/7b/51/7b51fdcba632f8eaec6c91feba70c35b.zip",
-          "contentHash": "sha256:df869499fe0c300e060d43a50b492ef0405cea532a55dc727acd2e62320dd685",
-          "sha256": "sha256:df869499fe0c300e060d43a50b492ef0405cea532a55dc727acd2e62320dd685",
-          "size": 1100990,
+          "contentHash": "sha256:40e42fa26e63940aa8b30b7a3af2622d2aeebe458cb96e171c23a1cadc4b77ae",
+          "sha256": "sha256:40e42fa26e63940aa8b30b7a3af2622d2aeebe458cb96e171c23a1cadc4b77ae",
+          "size": 1101068,
           "origins": [
             "viren070"
           ]

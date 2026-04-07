@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-04-04T06:02:38Z",
+  "generatedAt": "2026-04-07T05:52:24Z",
   "generator": "MILCheatsAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -8,7 +8,7 @@
   "cheatsPackAssetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "cheatsPackAssetType": "cheat-pack",
   "cheatsPackRelativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "cheatsPackSha256": "sha256:0784327166d5e58c3272c1a631c80878320f3ae74e968099381cccec2866a2ce",
+  "cheatsPackSha256": "sha256:2ba9a0f299e044883d46e5072613d83aea2b49b5a0ef00fa763ffe4b7b396d06",
   "cheatsPackSize": 8416973,
   "watchedTitleIds": [],
   "titles": [
@@ -8758,7 +8758,7 @@
     },
     {
       "titleId": "0100152000022000",
-      "name": "Mario Kart™ 8 Deluxe",
+      "name": "Mario Kart 8 Deluxe - Omega Mod",
       "categories": [
         "fps",
         "general",
@@ -15664,7 +15664,7 @@
     },
     {
       "titleId": "010021601C496000",
-      "name": "Kingdom Come Deliverance Royal Kcdbrasil",
+      "name": "Kingdom Come Deliverance Royal",
       "categories": [
         "graphics"
       ],
@@ -41023,7 +41023,7 @@
     },
     {
       "titleId": "010051D00E3A4000",
-      "name": "Rune Factory 4 Special",
+      "name": "Rune Factory 4 Special Edition",
       "categories": [
         "general"
       ],
@@ -54085,7 +54085,7 @@
     },
     {
       "titleId": "01006A800016E000",
-      "name": "Super Smash Bros. Ultimate - Cheats",
+      "name": "Super Smash Bros.™ Ultimate",
       "categories": [
         "fps",
         "general",
@@ -56798,7 +56798,7 @@
     },
     {
       "titleId": "01006E1004404000",
-      "name": "Ben 10",
+      "name": "Ben 10 (2017)",
       "categories": [
         "general"
       ],
@@ -57477,7 +57477,7 @@
     },
     {
       "titleId": "01006F8002326000",
-      "name": "Animal Crossing: New Horizons - Save Pack",
+      "name": "Animal Crossing™: New Horizons – Nintendo Switch™ 2 Edition",
       "categories": [
         "general"
       ],
@@ -67655,7 +67655,7 @@
     },
     {
       "titleId": "010081C0191D8000",
-      "name": "Rune Factory 3 Special Edition Mil",
+      "name": "Rune Factory 3 Special Edition",
       "categories": [
         "general"
       ],
@@ -69500,7 +69500,7 @@
     },
     {
       "titleId": "010085500130A000",
-      "name": "Lego City Undercover Mil Dub",
+      "name": "Lego City Undercover",
       "categories": [
         "general"
       ],
@@ -78112,7 +78112,7 @@
     },
     {
       "titleId": "010096F00FF22000",
-      "name": "Borderlands: The Handsome Collection",
+      "name": "Borderlands 2: Game of The Year Edition",
       "categories": [
         "general"
       ],
@@ -82532,7 +82532,7 @@
     },
     {
       "titleId": "0100A0A01D520000",
-      "name": "Snow Bros Wonderland Mil",
+      "name": "Snow Bros Wonderland",
       "categories": [
         "general"
       ],
@@ -126539,7 +126539,7 @@
     },
     {
       "titleId": "0100F8F0000A2000",
-      "name": "Splatoon 2 Gbj",
+      "name": "Splatoon 2",
       "categories": [
         "general"
       ],
