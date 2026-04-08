@@ -3,7 +3,7 @@
   "channel": "stable",
   "schemaVersion": "1.0",
   "catalogRevision": "2026.03.21.1",
-  "generatedAt": "2026-04-07T05:51:10Z",
+  "generatedAt": "2026-04-08T03:32:25Z",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
   "thumbPackRevision": "2026.03.21.1",
   "thumbPackAssetId": "3886943c00c0f670dd7c500004e92550",
@@ -4313,11 +4313,16 @@
       "section": "translations",
       "titleId": "01005E701D168000",
       "name": "Tales Of Graces F Remastered",
-      "packageVersion": "1.0.3",
+      "introPtBr": "Tales of Graces f está de volta com uma versão mais linda e mais fácil de jogar!",
+      "introEnUs": "Tales of Graces is back with a cutest and easiest version to play!",
+      "summary": "Tales of Graces f é um RPG de ação sobre uma aventura em mundos de fantasia e superação de obstáculos pela amizade e determinação.",
+      "summaryPtBr": "Tales of Graces f é um RPG de ação sobre uma aventura em mundos de fantasia e superação de obstáculos pela amizade e determinação.",
+      "summaryEnUs": "Tales of Graces is a new RPG about an adventure in fantasy worlds and overcoming obstacles through friendship and determination.",
+      "packageVersion": "0.5.2",
       "contentTypes": [
         "translation"
       ],
-      "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaQCEdLhs4KGRVWyMnBR0CUisTAFI3GhpMMg4pJFVXGColSDcJCj9YHkYDXwNLJ1ItGB4NMw",
+      "downloadUrl": "obf:v1:BR0YXR5bQU4KABVMXg8ZRAcOCUhaOjVeLA06E0xVACgdPRogF1cvNS0THykANx4mHxRlLSMYeC4zPjh3AlMmBglgNVk9A1I_Kw",
       "coverUrl": "https://img-eshop.cdn.nintendo.net/i/7385fdb149fc55979e76557f5cd4d47bdc91ccaf3159bea94e80d069518e1ae9.jpg",
       "thumbnailUrl": "https://nekkk.github.io/mil-manager-delivery/thumbs/tales-of-graces-f-remaster-ptbr.png",
       "compatibility": {
@@ -4327,14 +4332,9 @@
       },
       "featured": false,
       "variants": [],
-      "summary": "",
       "tags": [],
       "installTarget": "",
-      "introPtBr": "",
-      "introEnUs": "",
-      "intro": "",
-      "summaryPtBr": "",
-      "summaryEnUs": "",
+      "intro": "Tales of Graces f está de volta com uma versão mais linda e mais fácil de jogar!",
       "assetType": "translation-package",
       "assetId": "5e7baf612e2daf8ddae158e131301952"
     },
@@ -5253,6 +5253,6 @@
       "assetId": "501d0d5bc09278b0212e9e6610318abc"
     }
   ],
-  "thumbPackSha256": "sha256:4ea102fef952934270568f7063b74f37649fbfef868d440cfed15a0a8f9f1918",
+  "thumbPackSha256": "sha256:d417e70ebc598046c4ace2a398cb400d18cfb629eb793572a120ee382085c3ea",
   "thumbPackSize": 4237698
 }
