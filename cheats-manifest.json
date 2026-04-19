@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-04-16T06:09:27Z",
+  "generatedAt": "2026-04-19T06:05:54Z",
   "revision": "2026.03.21.1",
   "assetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "assetType": "cheat-pack",
   "packFile": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "packSha256": "sha256:a652cf149116b131273f585b4defd7776c439ff06ab1d406dadb7cfdfd167576",
+  "packSha256": "sha256:27fed1dbefc63bd51ee45033e5a9f595b99772feede7feb4f2d88933fb7dff0e",
   "relativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "size": 8416972
+  "size": 8417518
 }

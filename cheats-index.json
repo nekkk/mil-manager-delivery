@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-04-16T06:09:30Z",
+  "generatedAt": "2026-04-19T06:05:56Z",
   "generator": "MILCheatsAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -8,8 +8,8 @@
   "cheatsPackAssetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "cheatsPackAssetType": "cheat-pack",
   "cheatsPackRelativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "cheatsPackSha256": "sha256:a652cf149116b131273f585b4defd7776c439ff06ab1d406dadb7cfdfd167576",
-  "cheatsPackSize": 8416972,
+  "cheatsPackSha256": "sha256:27fed1dbefc63bd51ee45033e5a9f595b99772feede7feb4f2d88933fb7dff0e",
+  "cheatsPackSize": 8417518,
   "watchedTitleIds": [],
   "sources": {
     "titledb": {
@@ -25,7 +25,7 @@
     "chansey": {
       "enabled": true,
       "priorityRank": 40,
-      "records": 924
+      "records": 925
     },
     "cheatSlips": {
       "enabled": true,
@@ -91033,6 +91033,52 @@
               "lineCount": 6,
               "relativePath": "delivery/cheats/e3/5d/e35d563895ee466cb4ff3394fdf7aa7c.txt",
               "priorityRank": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleId": "010051F0207B2000",
+      "name": "010051F0207B2000",
+      "builds": [
+        {
+          "buildId": "56BF85BD53541346",
+          "assetId": "c2f61f221e56769f050580b4c1ee63a5",
+          "assetType": "cheat-build",
+          "categories": [
+            "fps",
+            "graphics"
+          ],
+          "primarySource": "chansey",
+          "sources": [
+            "chansey"
+          ],
+          "contentHash": "sha256:8fdcdd7467a46889ef8c63c776d648a3bb662f02eb1afaef55d63856d708ec6d",
+          "cheatCount": 2,
+          "lineCount": 14,
+          "relativePath": "delivery/cheats/c2/f6/c2f61f221e56769f050580b4c1ee63a5.txt",
+          "size": 307,
+          "priorityRank": 40,
+          "entries": [
+            {
+              "id": "010051f0207b2000-56bf85bd53541346-8fdcdd7467a4",
+              "title": "FPS / Graphics",
+              "assetId": "2fec21ca1cb9788130497fe162c94782",
+              "assetType": "cheat-entry",
+              "primarySource": "chansey",
+              "sources": [
+                "chansey"
+              ],
+              "categories": [
+                "fps",
+                "graphics"
+              ],
+              "contentHash": "sha256:8fdcdd7467a46889ef8c63c776d648a3bb662f02eb1afaef55d63856d708ec6d",
+              "cheatCount": 2,
+              "lineCount": 14,
+              "relativePath": "delivery/cheats/2f/ec/2fec21ca1cb9788130497fe162c94782.txt",
+              "priorityRank": 40
             }
           ]
         }

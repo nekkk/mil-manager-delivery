@@ -3,7 +3,7 @@
   "channel": "stable",
   "schemaVersion": "1.0",
   "catalogRevision": "2026.03.21.1",
-  "generatedAt": "2026-04-16T06:08:41Z",
+  "generatedAt": "2026-04-19T06:04:23Z",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
   "thumbPackRevision": "2026.03.21.1",
   "thumbPackAssetId": "3886943c00c0f670dd7c500004e92550",
@@ -5253,6 +5253,6 @@
       "assetId": "501d0d5bc09278b0212e9e6610318abc"
     }
   ],
-  "thumbPackSha256": "sha256:39bb2ab3356c2eb2ef614265fb75a60317dc8e28850b7839ac235992e7cc41ae",
+  "thumbPackSha256": "sha256:bdd94bee4723140a78cffb4a05ca405920a9ce94cfc6d15ec141733d065b0f8b",
   "thumbPackSize": 4237698
 }
