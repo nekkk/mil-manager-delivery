@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-06-09T07:57:33Z",
+  "generatedAt": "2026-06-12T08:39:55Z",
   "generator": "MILCheatsAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -8,7 +8,7 @@
   "cheatsPackAssetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "cheatsPackAssetType": "cheat-pack",
   "cheatsPackRelativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "cheatsPackSha256": "sha256:056118226227e8f3b5ebe19c1b37b8fa880ee7600674a8d0ebdca51b9fceb059",
+  "cheatsPackSha256": "sha256:7fc1884878952396fa3b4d9470fb50eb3aa9065ab3709b140a90dd36f6442f3d",
   "cheatsPackSize": 8417519,
   "watchedTitleIds": [],
   "sources": {
@@ -93776,7 +93776,7 @@
     },
     {
       "titleId": "0100544020572000",
-      "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
+      "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land – Nintendo Switch 2 Edition",
       "builds": [
         {
           "buildId": "153DB27728D41305",
@@ -287371,7 +287371,7 @@
     },
     {
       "titleId": "0100FF500E34A000",
-      "name": "Xenoblade Chronicles™ Definitive Edition",
+      "name": "Xenoblade Chronicles™: Definitive Edition – Nintendo Switch™ 2 Edition",
       "builds": [
         {
           "buildId": "1EC9082CB52ECAF5",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-06-09T08:01:02Z",
+  "generatedAt": "2026-06-12T08:45:49Z",
   "generator": "MILSaveGamesAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -21711,7 +21711,7 @@
     },
     {
       "titleId": "0100FF500E34A000",
-      "name": "Xenoblade Chronicles™ Definitive Edition",
+      "name": "Xenoblade Chronicles™: Definitive Edition – Nintendo Switch™ 2 Edition",
       "categories": [
         "complete",
         "starter"
@@ -21730,9 +21730,9 @@
           "assetId": "23fb7f086858ea085c0dc6cbf0d510e2",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/23/fb/23fb7f086858ea085c0dc6cbf0d510e2.zip",
-          "contentHash": "sha256:d564115bac155bf7e4ed96f7e9f468d8ad2998b8048b126ac17148ca4c53f7b9",
-          "sha256": "sha256:d564115bac155bf7e4ed96f7e9f468d8ad2998b8048b126ac17148ca4c53f7b9",
-          "size": 1263021,
+          "contentHash": "sha256:124dc2a83511fa46d4928083ee81d72932251617df663ff2865256e490ebc192",
+          "sha256": "sha256:124dc2a83511fa46d4928083ee81d72932251617df663ff2865256e490ebc192",
+          "size": 1264177,
           "origins": [
             "viren070"
           ]
@@ -21750,9 +21750,9 @@
           "assetId": "a671382e057edd6c19457a699717ba16",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/a6/71/a671382e057edd6c19457a699717ba16.zip",
-          "contentHash": "sha256:b9eec276c752b4ebb6b9872137d89db905e8d83636013417c3e7c2321f7aa535",
-          "sha256": "sha256:b9eec276c752b4ebb6b9872137d89db905e8d83636013417c3e7c2321f7aa535",
-          "size": 406862,
+          "contentHash": "sha256:35ac67b20650e45ec6b09141b6fe43929428417560c5fa3adba571add8883734",
+          "sha256": "sha256:35ac67b20650e45ec6b09141b6fe43929428417560c5fa3adba571add8883734",
+          "size": 407338,
           "origins": [
             "viren070"
           ]
@@ -21770,9 +21770,9 @@
           "assetId": "885ef22ba8b7d7956326cd2d1f3141a6",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/88/5e/885ef22ba8b7d7956326cd2d1f3141a6.zip",
-          "contentHash": "sha256:abc8dc2375756c33ae41336342745d4d354e5fb8fcd8bde2b327d9e569f0edcb",
-          "sha256": "sha256:abc8dc2375756c33ae41336342745d4d354e5fb8fcd8bde2b327d9e569f0edcb",
-          "size": 477641,
+          "contentHash": "sha256:a8f56173e563928c61a09124d5b02fbdb261ddaf57c12f5288dce1e9fd884e5d",
+          "sha256": "sha256:a8f56173e563928c61a09124d5b02fbdb261ddaf57c12f5288dce1e9fd884e5d",
+          "size": 478117,
           "origins": [
             "viren070"
           ]
