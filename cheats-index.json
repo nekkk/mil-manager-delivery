@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-06-12T08:39:55Z",
+  "generatedAt": "2026-06-15T10:30:28Z",
   "generator": "MILCheatsAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -8,8 +8,8 @@
   "cheatsPackAssetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "cheatsPackAssetType": "cheat-pack",
   "cheatsPackRelativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "cheatsPackSha256": "sha256:7fc1884878952396fa3b4d9470fb50eb3aa9065ab3709b140a90dd36f6442f3d",
-  "cheatsPackSize": 8417519,
+  "cheatsPackSha256": "sha256:320b398949caeaffae573e223271f70594b9ae9b7023ed64193e299da421bd6d",
+  "cheatsPackSize": 8425918,
   "watchedTitleIds": [],
   "sources": {
     "titledb": {
@@ -20,7 +20,7 @@
     "gbatempMirror": {
       "enabled": true,
       "priorityRank": 20,
-      "records": 3165
+      "records": 3170
     },
     "chansey": {
       "enabled": true,
@@ -11483,6 +11483,50 @@
               "lineCount": 26,
               "relativePath": "delivery/cheats/1d/51/1d51adc67b4680a312d4fe2ec54b1109.txt",
               "priorityRank": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleId": "01000E2025246000",
+      "name": "STARBITES",
+      "builds": [
+        {
+          "buildId": "EADDD1DA21FAB72B",
+          "assetId": "791d6e3ddc0503e308ce2e67d7219f84",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:9e8a4273377b2860b569c16a2275ab849fc89b3161a9404e92dbc945b4c810b1",
+          "cheatCount": 63,
+          "lineCount": 268,
+          "relativePath": "delivery/cheats/79/1d/791d6e3ddc0503e308ce2e67d7219f84.txt",
+          "size": 6883,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "01000e2025246000-eaddd1da21fab72b-9e8a4273377b",
+              "title": "General",
+              "assetId": "bd88ae60614a6312c989e6ca55b5164b",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:9e8a4273377b2860b569c16a2275ab849fc89b3161a9404e92dbc945b4c810b1",
+              "cheatCount": 63,
+              "lineCount": 268,
+              "relativePath": "delivery/cheats/bd/88/bd88ae60614a6312c989e6ca55b5164b.txt",
+              "priorityRank": 20
             }
           ]
         }
@@ -91079,6 +91123,44 @@
               "lineCount": 14,
               "relativePath": "delivery/cheats/2f/ec/2fec21ca1cb9788130497fe162c94782.txt",
               "priorityRank": 40
+            }
+          ]
+        },
+        {
+          "buildId": "A1EFE1B6BBB0328F",
+          "assetId": "70e024d1606458755760b289a869eaa2",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:8bec40917b29655ecb78a12b0b2d9c5363e9eae4f5a4cd774103157d4b86ea78",
+          "cheatCount": 16,
+          "lineCount": 65,
+          "relativePath": "delivery/cheats/70/e0/70e024d1606458755760b289a869eaa2.txt",
+          "size": 1747,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "010051f0207b2000-a1efe1b6bbb0328f-8bec40917b29",
+              "title": "General",
+              "assetId": "515c38dc7a30b88b9cf11e2492df07e1",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:8bec40917b29655ecb78a12b0b2d9c5363e9eae4f5a4cd774103157d4b86ea78",
+              "cheatCount": 16,
+              "lineCount": 65,
+              "relativePath": "delivery/cheats/51/5c/515c38dc7a30b88b9cf11e2492df07e1.txt",
+              "priorityRank": 20
             }
           ]
         }
@@ -210916,6 +210998,50 @@
       ]
     },
     {
+      "titleId": "0100B7E026A50000",
+      "name": "R-Type Dimensions III",
+      "builds": [
+        {
+          "buildId": "AD12F941702FF70A",
+          "assetId": "c94e0b5a8ad33e788e219210a9c49012",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:3e65afa2b23787ad358c6698ae326496127d2b25d6b64ec3b922d9d1a39c7c3c",
+          "cheatCount": 10,
+          "lineCount": 38,
+          "relativePath": "delivery/cheats/c9/4e/c94e0b5a8ad33e788e219210a9c49012.txt",
+          "size": 1073,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "0100b7e026a50000-ad12f941702ff70a-3e65afa2b237",
+              "title": "General",
+              "assetId": "3dfe0b7e1f1ce36b1236dee846690a6d",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:3e65afa2b23787ad358c6698ae326496127d2b25d6b64ec3b922d9d1a39c7c3c",
+              "cheatCount": 10,
+              "lineCount": 38,
+              "relativePath": "delivery/cheats/3d/fe/3dfe0b7e1f1ce36b1236dee846690a6d.txt",
+              "priorityRank": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titleId": "0100B7F015BF2000",
       "name": "Asdivine Saga",
       "builds": [
@@ -250292,6 +250418,50 @@
       ]
     },
     {
+      "titleId": "0100DCD01F306000",
+      "name": "Mina the Hollower - Nintendo Switch 2 Edition",
+      "builds": [
+        {
+          "buildId": "AB45D02C9F0EF652",
+          "assetId": "fc873c855b4b0cec785ed414a6234446",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:521208cb1f617dd65127528ed0375361ac99f236f1a120f974fd3e035083aab2",
+          "cheatCount": 1,
+          "lineCount": 2,
+          "relativePath": "delivery/cheats/fc/87/fc873c855b4b0cec785ed414a6234446.txt",
+          "size": 48,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "0100dcd01f306000-ab45d02c9f0ef652-521208cb1f61",
+              "title": "General",
+              "assetId": "e85fabf61aefacc72e89accd41a71792",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:521208cb1f617dd65127528ed0375361ac99f236f1a120f974fd3e035083aab2",
+              "cheatCount": 1,
+              "lineCount": 2,
+              "relativePath": "delivery/cheats/e8/5f/e85fabf61aefacc72e89accd41a71792.txt",
+              "priorityRank": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titleId": "0100DCF0093EC000",
       "name": "Everspace™ - Stellar Edition",
       "builds": [
@@ -278684,6 +278854,50 @@
               "lineCount": 17,
               "relativePath": "delivery/cheats/7e/9e/7e9efa46da1c84fe614763652aeabde3.txt",
               "priorityRank": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleId": "0100F5102672C000",
+      "name": "Rune Dice",
+      "builds": [
+        {
+          "buildId": "2418047EB2F58DB9",
+          "assetId": "9f5443f73152b8ac93b0893d8a1879cf",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:942933864f7e90afec4317c43f6775812da6f1770d9fd3c04e45079c48dbb5d9",
+          "cheatCount": 7,
+          "lineCount": 46,
+          "relativePath": "delivery/cheats/9f/54/9f5443f73152b8ac93b0893d8a1879cf.txt",
+          "size": 1121,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "0100f5102672c000-2418047eb2f58db9-942933864f7e",
+              "title": "General",
+              "assetId": "53fe192acaab14b841a42c953539c847",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:942933864f7e90afec4317c43f6775812da6f1770d9fd3c04e45079c48dbb5d9",
+              "cheatCount": 7,
+              "lineCount": 46,
+              "relativePath": "delivery/cheats/53/fe/53fe192acaab14b841a42c953539c847.txt",
+              "priorityRank": 20
             }
           ]
         }
