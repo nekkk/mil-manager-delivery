@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-12T06:42:04Z",
+  "generatedAt": "2026-07-15T06:24:36Z",
   "generator": "MILCheatsAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -8,8 +8,8 @@
   "cheatsPackAssetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "cheatsPackAssetType": "cheat-pack",
   "cheatsPackRelativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "cheatsPackSha256": "sha256:86b6b821cb7e2749d0de17f711f973f43547c1236f754c7bad7ad6a35da3a596",
-  "cheatsPackSize": 8425918,
+  "cheatsPackSha256": "sha256:ab7b6d85e4041d41b05146bfec9d01635bd2dd66f13632eb038a78f13053605b",
+  "cheatsPackSize": 8425919,
   "watchedTitleIds": [],
   "titles": [
     {
