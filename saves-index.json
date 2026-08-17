@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-08-14T05:46:36Z",
+  "generatedAt": "2026-08-17T04:58:22Z",
   "generator": "MILSaveGamesAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -20196,7 +20196,7 @@
     },
     {
       "titleId": "0100E95004038000",
-      "name": "Xenoblade Chronicles™ 2",
+      "name": "Xenoblade Chronicles™ 2 – Nintendo Switch™ 2 Edition",
       "categories": [
         "complete"
       ],
@@ -20214,9 +20214,9 @@
           "assetId": "3049805e457cfbec2cb140d3e29da921",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/30/49/3049805e457cfbec2cb140d3e29da921.zip",
-          "contentHash": "sha256:bc552ec86f85c5cdc6bc87eb8f93e100eb219ea89777f216f135187d792adb60",
-          "sha256": "sha256:bc552ec86f85c5cdc6bc87eb8f93e100eb219ea89777f216f135187d792adb60",
-          "size": 230165,
+          "contentHash": "sha256:3de11587ea5bad43d04a58d20e537f32184892500896784340d81825ef9fd397",
+          "sha256": "sha256:3de11587ea5bad43d04a58d20e537f32184892500896784340d81825ef9fd397",
+          "size": 230495,
           "origins": [
             "viren070"
           ]
@@ -20789,7 +20789,7 @@
     },
     {
       "titleId": "0100F0401435E000",
-      "name": "Disney Speedstorm",
+      "name": "Disney Speedstorm – Nintendo Switch 2 Edition",
       "categories": [
         "other"
       ],
@@ -20807,9 +20807,9 @@
           "assetId": "130385a07937ec6ca777aa9b638cae23",
           "assetType": "save-pack",
           "relativePath": "delivery/saves/13/03/130385a07937ec6ca777aa9b638cae23.zip",
-          "contentHash": "sha256:3dcfb22ac76efdfcaa7efd8355979c95a58ad3c7c31dd67162da4b91826908be",
-          "sha256": "sha256:3dcfb22ac76efdfcaa7efd8355979c95a58ad3c7c31dd67162da4b91826908be",
-          "size": 1057237,
+          "contentHash": "sha256:332225b5a22e64f9a908daa6a3e4751a3fe5e701bba6dad75abccd209517d1d0",
+          "sha256": "sha256:332225b5a22e64f9a908daa6a3e4751a3fe5e701bba6dad75abccd209517d1d0",
+          "size": 1061617,
           "origins": [
             "viren070"
           ]

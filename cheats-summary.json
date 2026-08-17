@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-08-14T05:42:45Z",
+  "generatedAt": "2026-08-17T04:52:47Z",
   "generator": "MILCheatsAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -8,8 +8,8 @@
   "cheatsPackAssetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "cheatsPackAssetType": "cheat-pack",
   "cheatsPackRelativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "cheatsPackSha256": "sha256:3365867dac7a85056150e68b758acbf1be52cf62816901f6cf9f7d37c5c0887a",
-  "cheatsPackSize": 8425919,
+  "cheatsPackSha256": "sha256:fa49fa922c593ca9a3affbeb3bb665428228fc683fa83f43aef2839752e9f74d",
+  "cheatsPackSize": 8437170,
   "watchedTitleIds": [],
   "titles": [
     {
@@ -5463,7 +5463,7 @@
     },
     {
       "titleId": "01000E2025246000",
-      "name": "STARBITES",
+      "name": "STARBITES - Nintendo Switch™ 2 Edition",
       "categories": [
         "general"
       ],
@@ -78698,6 +78698,110 @@
       ]
     },
     {
+      "titleId": "010097F018538000",
+      "name": "DAVE THE DIVER Nintendo Switch 2 Edition",
+      "categories": [
+        "general"
+      ],
+      "sources": [
+        "gbatempMirror"
+      ],
+      "buildCount": 5,
+      "cheatCount": 73,
+      "builds": [
+        {
+          "buildId": "099DFB70DFB4CD45",
+          "assetId": "31ab714ecaccef5f2fcb897dfef67e26",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:4cc348146a733605a4f5422a2643b5a1685e8aa22f0e6efc8781427fba0281f6",
+          "cheatCount": 10,
+          "lineCount": 70,
+          "relativePath": "delivery/cheats/31/ab/31ab714ecaccef5f2fcb897dfef67e26.txt",
+          "size": 1765,
+          "priorityRank": 20
+        },
+        {
+          "buildId": "20F9058AEFEAC0AF",
+          "assetId": "579828e9487ccf69c0dc5a2493522cce",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:9121b9d4d15487f7a51340df261b5227bac27c90d44874c31233c3f1671d4c07",
+          "cheatCount": 10,
+          "lineCount": 73,
+          "relativePath": "delivery/cheats/57/98/579828e9487ccf69c0dc5a2493522cce.txt",
+          "size": 1880,
+          "priorityRank": 20
+        },
+        {
+          "buildId": "67965B04FA2B3A03",
+          "assetId": "7c3b9a67b867304e019dd965d38d9e22",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:82b436a9168919bd633c7452e0d4c6c4a2c86890adbce05f91864134193230ba",
+          "cheatCount": 30,
+          "lineCount": 186,
+          "relativePath": "delivery/cheats/7c/3b/7c3b9a67b867304e019dd965d38d9e22.txt",
+          "size": 4232,
+          "priorityRank": 20
+        },
+        {
+          "buildId": "9143EE94A8E752F5",
+          "assetId": "f9d5639ec2cad2f807276578e3bb3783",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:d0bbc4f6a6c14d2bb934be6506aa58dbfa87a9e67a84580ce17ca1b128627757",
+          "cheatCount": 9,
+          "lineCount": 62,
+          "relativePath": "delivery/cheats/f9/d5/f9d5639ec2cad2f807276578e3bb3783.txt",
+          "size": 1563,
+          "priorityRank": 20
+        },
+        {
+          "buildId": "D71AEF123D1FFB8F",
+          "assetId": "ac665acde2ee12c91f0d2cce6f14bbec",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:e13a16f421b36386a80f1bf10ba312e26cf19fcb3bfbce0a6e756c0a20fff1ae",
+          "cheatCount": 14,
+          "lineCount": 91,
+          "relativePath": "delivery/cheats/ac/66/ac665acde2ee12c91f0d2cce6f14bbec.txt",
+          "size": 2210,
+          "priorityRank": 20
+        }
+      ]
+    },
+    {
       "titleId": "010099201FBFA000",
       "name": "Kingsgrave",
       "categories": [
@@ -111281,6 +111385,38 @@
       ]
     },
     {
+      "titleId": "0100D9F01D474000",
+      "name": "Rhythm Heaven™ Groove",
+      "categories": [
+        "general"
+      ],
+      "sources": [
+        "gbatempMirror"
+      ],
+      "buildCount": 1,
+      "cheatCount": 8,
+      "builds": [
+        {
+          "buildId": "03FF4A3BEC96BDE3",
+          "assetId": "ad63a221c1ad331ffcc5a808b80d00ab",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:eb21905377fa4693c7ec11b0f379e72f8a5e2afaee2742c0ca1af93041e53fe5",
+          "cheatCount": 8,
+          "lineCount": 34,
+          "relativePath": "delivery/cheats/ad/63/ad63a221c1ad331ffcc5a808b80d00ab.txt",
+          "size": 884,
+          "priorityRank": 20
+        }
+      ]
+    },
+    {
       "titleId": "0100DA0006F50000",
       "name": "DragonFangZ - The Rose & Dungeon of Time",
       "categories": [
@@ -118533,7 +118669,7 @@
     },
     {
       "titleId": "0100E95004038000",
-      "name": "Xenoblade Chronicles™ 2",
+      "name": "Xenoblade Chronicles™ 2 – Nintendo Switch™ 2 Edition",
       "categories": [
         "fps",
         "general",
@@ -126539,6 +126675,38 @@
           "lineCount": 37,
           "relativePath": "delivery/cheats/1d/f8/1df866295375caec1e4a18902cb09322.txt",
           "size": 889,
+          "priorityRank": 20
+        }
+      ]
+    },
+    {
+      "titleId": "0100F850264EA000",
+      "name": "River City Saga: Journey to the West",
+      "categories": [
+        "general"
+      ],
+      "sources": [
+        "gbatempMirror"
+      ],
+      "buildCount": 1,
+      "cheatCount": 7,
+      "builds": [
+        {
+          "buildId": "1D425F95B91E0DF8",
+          "assetId": "7c2312d61dc4e759658e29d05dec0716",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:b916974ae065273cd5fb78d34a1cd975ccb73e6b8e459ae3ed4b37b781e5b1b0",
+          "cheatCount": 7,
+          "lineCount": 65,
+          "relativePath": "delivery/cheats/7c/23/7c2312d61dc4e759658e29d05dec0716.txt",
+          "size": 1848,
           "priorityRank": 20
         }
       ]
