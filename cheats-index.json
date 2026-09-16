@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-13T09:25:41Z",
+  "generatedAt": "2026-09-16T09:14:59Z",
   "generator": "MILCheatsAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -8,8 +8,8 @@
   "cheatsPackAssetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "cheatsPackAssetType": "cheat-pack",
   "cheatsPackRelativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "cheatsPackSha256": "sha256:e03c9367b3a2b2e18870b5ee95d8e1996186d81db0a82b9636900c825f2964c5",
-  "cheatsPackSize": 8433658,
+  "cheatsPackSha256": "sha256:be931fd73c069c2fc60c7da9a1e166a2940fd7a921b1713038114c78bd862e9a",
+  "cheatsPackSize": 8437786,
   "watchedTitleIds": [],
   "sources": {
     "titledb": {
@@ -20,7 +20,7 @@
     "gbatempMirror": {
       "enabled": true,
       "priorityRank": 20,
-      "records": 3175
+      "records": 3177
     },
     "chansey": {
       "enabled": true,
@@ -171017,23 +171017,44 @@
         },
         {
           "buildId": "5E341429F2C9B2C5",
-          "assetId": "4f2a999dc7b85628a2626988ee0d0b65",
+          "assetId": "b261104ffc87680387f0c8aa23b33631",
           "assetType": "cheat-build",
           "categories": [
+            "fps",
             "general"
           ],
-          "primarySource": "titledb",
+          "primarySource": "gbatempMirror",
           "sources": [
+            "gbatempMirror",
             "ibnux",
             "titledb"
           ],
-          "contentHash": "sha256:575e519a2c612354068f92b25664442e986a4db04af45c419db19f13e1a25bf9",
-          "cheatCount": 16,
-          "lineCount": 159,
-          "relativePath": "delivery/cheats/4f/2a/4f2a999dc7b85628a2626988ee0d0b65.txt",
-          "size": 3675,
-          "priorityRank": 30,
+          "contentHash": "sha256:df3ef48b98b56fc0c0c7c27447201639388f066e85b8edc61d07514b68504e2a",
+          "cheatCount": 73,
+          "lineCount": 505,
+          "relativePath": "delivery/cheats/b2/61/b261104ffc87680387f0c8aa23b33631.txt",
+          "size": 11936,
+          "priorityRank": 20,
           "entries": [
+            {
+              "id": "0100936018eb4000-5e341429f2c9b2c5-0fd2f317554e",
+              "title": "FPS",
+              "assetId": "9bc5f520aaa35b95b441333d72fc6696",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "fps",
+                "general"
+              ],
+              "contentHash": "sha256:0fd2f317554e50ad9af0b4c80b377a58dcf0828a141d2d2e0c39fe7374557179",
+              "cheatCount": 57,
+              "lineCount": 346,
+              "relativePath": "delivery/cheats/9b/c5/9bc5f520aaa35b95b441333d72fc6696.txt",
+              "priorityRank": 20
+            },
             {
               "id": "0100936018eb4000-5e341429f2c9b2c5-38e8eef709a6",
               "title": "General",
@@ -172232,8 +172253,9 @@
           "categories": [
             "general"
           ],
-          "primarySource": "ibnux",
+          "primarySource": "gbatempMirror",
           "sources": [
+            "gbatempMirror",
             "ibnux",
             "titledb"
           ],
@@ -172242,15 +172264,16 @@
           "lineCount": 18,
           "relativePath": "delivery/cheats/19/2d/192d82c5b47ced5b1067a8dc5883550b.txt",
           "size": 327,
-          "priorityRank": 30,
+          "priorityRank": 20,
           "entries": [
             {
               "id": "01009440095fe000-1022c3cea1e0f546-d74d097b32b8",
               "title": "General",
               "assetId": "0a340d56563913bce59ce3106944dfb1",
               "assetType": "cheat-entry",
-              "primarySource": "ibnux",
+              "primarySource": "gbatempMirror",
               "sources": [
+                "gbatempMirror",
                 "ibnux",
                 "titledb"
               ],
@@ -172261,7 +172284,7 @@
               "cheatCount": 2,
               "lineCount": 18,
               "relativePath": "delivery/cheats/0a/34/0a340d56563913bce59ce3106944dfb1.txt",
-              "priorityRank": 30
+              "priorityRank": 20
             }
           ]
         }
