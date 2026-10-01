@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-28T10:47:48Z",
+  "generatedAt": "2026-10-01T10:52:44Z",
   "generator": "MILCheatsAggregator",
   "catalogRevision": "2026.03.21.1",
   "deliveryBaseUrl": "https://nekkk.github.io/mil-manager-delivery/",
@@ -8,8 +8,8 @@
   "cheatsPackAssetId": "6af7dd66a917d4b655d9822d1a0fddad",
   "cheatsPackAssetType": "cheat-pack",
   "cheatsPackRelativePath": "delivery/packs/cheats/6a/6af7dd66a917d4b655d9822d1a0fddad.zip",
-  "cheatsPackSha256": "sha256:0cb92201ce985339bc406921208e0dc377495340fa46a5d2962a8d8b8326b0b2",
-  "cheatsPackSize": 8437787,
+  "cheatsPackSha256": "sha256:172d22cffaae8e185250101cca156b19e1cab40ec2bc1f991da5a8b24b5887d1",
+  "cheatsPackSize": 8465634,
   "watchedTitleIds": [],
   "sources": {
     "titledb": {
@@ -20,7 +20,7 @@
     "gbatempMirror": {
       "enabled": true,
       "priorityRank": 20,
-      "records": 3177
+      "records": 3186
     },
     "chansey": {
       "enabled": true,
@@ -34381,6 +34381,50 @@
               "lineCount": 107,
               "relativePath": "delivery/cheats/48/d6/48d64a4926e8698af4d4d6baf07bb5d1.txt",
               "priorityRank": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleId": "0100217023F6C000",
+      "name": "Well Dweller",
+      "builds": [
+        {
+          "buildId": "3C16607B927ECAE3",
+          "assetId": "c7ac3c52178fb8819d68e1bf5767e43c",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:1eead97efaadac61ceac044614ba9fa20d141182b693029c56e9cc3678a008f7",
+          "cheatCount": 29,
+          "lineCount": 243,
+          "relativePath": "delivery/cheats/c7/ac/c7ac3c52178fb8819d68e1bf5767e43c.txt",
+          "size": 5182,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "0100217023f6c000-3c16607b927ecae3-1eead97efaad",
+              "title": "General",
+              "assetId": "f316a36d4cd122e13ad05d00c8405caf",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:1eead97efaadac61ceac044614ba9fa20d141182b693029c56e9cc3678a008f7",
+              "cheatCount": 29,
+              "lineCount": 243,
+              "relativePath": "delivery/cheats/f3/16/f316a36d4cd122e13ad05d00c8405caf.txt",
+              "priorityRank": 20
             }
           ]
         }
@@ -98327,6 +98371,50 @@
       ]
     },
     {
+      "titleId": "010057D02461E000",
+      "name": "Little Witch in the Woods",
+      "builds": [
+        {
+          "buildId": "F3F5CF6D1B7BC106",
+          "assetId": "7e1f307fa601a83a1593034bc2394d00",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:2fd80b51741c2ed0274e6a74125e2319b092c995cf4c8dd88687aca77d4d750d",
+          "cheatCount": 68,
+          "lineCount": 368,
+          "relativePath": "delivery/cheats/7e/1f/7e1f307fa601a83a1593034bc2394d00.txt",
+          "size": 10400,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "010057d02461e000-f3f5cf6d1b7bc106-2fd80b51741c",
+              "title": "General",
+              "assetId": "c45d42e8b03012cd4abe86ac299717aa",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:2fd80b51741c2ed0274e6a74125e2319b092c995cf4c8dd88687aca77d4d750d",
+              "cheatCount": 68,
+              "lineCount": 368,
+              "relativePath": "delivery/cheats/c4/5d/c45d42e8b03012cd4abe86ac299717aa.txt",
+              "priorityRank": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titleId": "010057E00AC56000",
       "name": "010057E00AC56000",
       "builds": [
@@ -100837,6 +100925,88 @@
               "lineCount": 35,
               "relativePath": "delivery/cheats/63/bd/63bd7b0b02027934e9f12521d7450ee4.txt",
               "priorityRank": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleId": "01005A901EE3E000",
+      "name": "01005A901EE3E000",
+      "builds": [
+        {
+          "buildId": "38D106CC56D947D1",
+          "assetId": "7435b0b47afbba06c0712dc877bc40a4",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:bdc090bac9929ed6a27f1fb8162f67dd8c002af5e697e6df9adcc5189da48924",
+          "cheatCount": 16,
+          "lineCount": 159,
+          "relativePath": "delivery/cheats/74/35/7435b0b47afbba06c0712dc877bc40a4.txt",
+          "size": 3114,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "01005a901ee3e000-38d106cc56d947d1-bdc090bac992",
+              "title": "General",
+              "assetId": "6a31a1e9fbdac5d37b98613129a42c18",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:bdc090bac9929ed6a27f1fb8162f67dd8c002af5e697e6df9adcc5189da48924",
+              "cheatCount": 16,
+              "lineCount": 159,
+              "relativePath": "delivery/cheats/6a/31/6a31a1e9fbdac5d37b98613129a42c18.txt",
+              "priorityRank": 20
+            }
+          ]
+        },
+        {
+          "buildId": "F356867FD4995EA7",
+          "assetId": "c3ed55b2bcf6d11799cd4cd24416cb7c",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:fef638e5822ee9a7ab5cacabf9506aa068b1ee53540cbf0f2bb51a8dcfbb534b",
+          "cheatCount": 14,
+          "lineCount": 125,
+          "relativePath": "delivery/cheats/c3/ed/c3ed55b2bcf6d11799cd4cd24416cb7c.txt",
+          "size": 2447,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "01005a901ee3e000-f356867fd4995ea7-fef638e5822e",
+              "title": "General",
+              "assetId": "cafe93a02f110bd69b3e3824771f18fd",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:fef638e5822ee9a7ab5cacabf9506aa068b1ee53540cbf0f2bb51a8dcfbb534b",
+              "cheatCount": 14,
+              "lineCount": 125,
+              "relativePath": "delivery/cheats/ca/fe/cafe93a02f110bd69b3e3824771f18fd.txt",
+              "priorityRank": 20
             }
           ]
         }
@@ -122120,6 +122290,50 @@
       ]
     },
     {
+      "titleId": "01006AC025AAC000",
+      "name": "Marsupilami 2 - Salsa Palombia",
+      "builds": [
+        {
+          "buildId": "BB4A01F9867F072F",
+          "assetId": "8d50f6e8083978a2916ce78f671b6f94",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:ca198b55b5f99949a41a926e96a74bfa217c4b4452ba305f8542d2faf47afd28",
+          "cheatCount": 5,
+          "lineCount": 24,
+          "relativePath": "delivery/cheats/8d/50/8d50f6e8083978a2916ce78f671b6f94.txt",
+          "size": 598,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "01006ac025aac000-bb4a01f9867f072f-ca198b55b5f9",
+              "title": "General",
+              "assetId": "978467e2ac91ae8de8c9b923f451a05a",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:ca198b55b5f99949a41a926e96a74bfa217c4b4452ba305f8542d2faf47afd28",
+              "cheatCount": 5,
+              "lineCount": 24,
+              "relativePath": "delivery/cheats/97/84/978467e2ac91ae8de8c9b923f451a05a.txt",
+              "priorityRank": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titleId": "01006AE00C6D6000",
       "name": "01006AE00C6D6000",
       "builds": [
@@ -137794,22 +138008,42 @@
         },
         {
           "buildId": "82D187FE9EF9BE92",
-          "assetId": "2a42af25eac8563ae99ee20ab0435266",
+          "assetId": "f7bfce7609c26b6858e335c5fe1e40c7",
           "assetType": "cheat-build",
           "categories": [
+            "general",
             "graphics"
           ],
-          "primarySource": "chansey",
+          "primarySource": "gbatempMirror",
           "sources": [
-            "chansey"
+            "chansey",
+            "gbatempMirror"
           ],
-          "contentHash": "sha256:f3935067f4fe0e3ff4102f9dd039ee5469762a953b5751bbcdcc89304ec3b819",
-          "cheatCount": 15,
-          "lineCount": 110,
-          "relativePath": "delivery/cheats/2a/42/2a42af25eac8563ae99ee20ab0435266.txt",
-          "size": 2528,
-          "priorityRank": 40,
+          "contentHash": "sha256:ab746efa50cfd18ada8bb3b9527be70e344b102b3122f0294fc730babae53451",
+          "cheatCount": 82,
+          "lineCount": 689,
+          "relativePath": "delivery/cheats/f7/bf/f7bfce7609c26b6858e335c5fe1e40c7.txt",
+          "size": 19006,
+          "priorityRank": 20,
           "entries": [
+            {
+              "id": "010074f013262000-82d187fe9ef9be92-26d690d4405e",
+              "title": "General",
+              "assetId": "19f3ccd60301501a65fbac85ec823f49",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:26d690d4405e43b936160f5e5360a452696ad2e7dfaea83205c9523d54097156",
+              "cheatCount": 67,
+              "lineCount": 579,
+              "relativePath": "delivery/cheats/19/f3/19f3ccd60301501a65fbac85ec823f49.txt",
+              "priorityRank": 20
+            },
             {
               "id": "010074f013262000-82d187fe9ef9be92-f3935067f4fe",
               "title": "Graphics",
@@ -142414,6 +142648,50 @@
       ]
     },
     {
+      "titleId": "0100783020A1A000",
+      "name": "Kynseed",
+      "builds": [
+        {
+          "buildId": "D585932EB2BB46B0",
+          "assetId": "3c4fb51fd4a291079dca8ac50e9ac62a",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:7b740b131b75689fcedbbe2bf318fbc876fb037b9ff333b3a6b5ee0b1e74755c",
+          "cheatCount": 115,
+          "lineCount": 615,
+          "relativePath": "delivery/cheats/3c/4f/3c4fb51fd4a291079dca8ac50e9ac62a.txt",
+          "size": 16949,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "0100783020a1a000-d585932eb2bb46b0-7b740b131b75",
+              "title": "General",
+              "assetId": "0e8c52078e9d354ff8422d4cae586e4c",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:7b740b131b75689fcedbbe2bf318fbc876fb037b9ff333b3a6b5ee0b1e74755c",
+              "cheatCount": 115,
+              "lineCount": 615,
+              "relativePath": "delivery/cheats/0e/8c/0e8c52078e9d354ff8422d4cae586e4c.txt",
+              "priorityRank": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titleId": "01007860152EE000",
       "name": "Dead Effect 2",
       "builds": [
@@ -144840,6 +145118,50 @@
               "lineCount": 102,
               "relativePath": "delivery/cheats/86/e3/86e38065f2e6192a1decdcf2f7202186.txt",
               "priorityRank": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleId": "01007A2027548000",
+      "name": "Trails in the Sky 2nd Chapter: Nintendo Switch™ 2 Edition",
+      "builds": [
+        {
+          "buildId": "73FC676F184065C3",
+          "assetId": "444c09662d3edaadf1ddde8f44b18f94",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:b24fd6eda96ffc89e5f7a39633be86cb22345830b9619f040e3a5dec9e505ea7",
+          "cheatCount": 11,
+          "lineCount": 67,
+          "relativePath": "delivery/cheats/44/4c/444c09662d3edaadf1ddde8f44b18f94.txt",
+          "size": 1551,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "01007a2027548000-73fc676f184065c3-b24fd6eda96f",
+              "title": "General",
+              "assetId": "9b7fcff42c2c60e7ddd319a122f17cc4",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:b24fd6eda96ffc89e5f7a39633be86cb22345830b9619f040e3a5dec9e505ea7",
+              "cheatCount": 11,
+              "lineCount": 67,
+              "relativePath": "delivery/cheats/9b/7f/9b7fcff42c2c60e7ddd319a122f17cc4.txt",
+              "priorityRank": 20
             }
           ]
         }
@@ -278109,6 +278431,50 @@
               "lineCount": 44,
               "relativePath": "delivery/cheats/1b/31/1b3155a3d9d1d5ec3f402031ac5c4738.txt",
               "priorityRank": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titleId": "0100F3E024DFC000",
+      "name": "Another Eden Begins Nintendo Switch 2 Edition",
+      "builds": [
+        {
+          "buildId": "F09FD343105D328B",
+          "assetId": "486dd66e2b7c975fe1d68679217c6a64",
+          "assetType": "cheat-build",
+          "categories": [
+            "general"
+          ],
+          "primarySource": "gbatempMirror",
+          "sources": [
+            "gbatempMirror"
+          ],
+          "contentHash": "sha256:a93a5874eb95f7d7f0feeb030043a0a462dff2019353b9dc63c8bd11fcd5841b",
+          "cheatCount": 41,
+          "lineCount": 222,
+          "relativePath": "delivery/cheats/48/6d/486dd66e2b7c975fe1d68679217c6a64.txt",
+          "size": 6648,
+          "priorityRank": 20,
+          "entries": [
+            {
+              "id": "0100f3e024dfc000-f09fd343105d328b-a93a5874eb95",
+              "title": "General",
+              "assetId": "155addb1c91666ddbf260d940fc1322d",
+              "assetType": "cheat-entry",
+              "primarySource": "gbatempMirror",
+              "sources": [
+                "gbatempMirror"
+              ],
+              "categories": [
+                "general"
+              ],
+              "contentHash": "sha256:a93a5874eb95f7d7f0feeb030043a0a462dff2019353b9dc63c8bd11fcd5841b",
+              "cheatCount": 41,
+              "lineCount": 222,
+              "relativePath": "delivery/cheats/15/5a/155addb1c91666ddbf260d940fc1322d.txt",
+              "priorityRank": 20
             }
           ]
         }
